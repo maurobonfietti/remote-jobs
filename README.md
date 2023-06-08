@@ -8,7 +8,6 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 
 | Company | Position | Location | Published.Date. |
 | --- | --- | --- | --- |
-| :office:  47 Degrees | [%BUTTON_APPLY% .Net Tech Lead Colombia %LABEL_POSITION_TYPE_FULL_TIME% %BUTTON_APPLY%](https://www.opentoworkremote.com/apply/145674) | Colombia | :spiral_calendar: ️2023-06-08 |
 | :office:  Ioon Technologies SLU | [Arquitecto de Sistemas Linux](https://www.opentoworkremote.com/apply/145864) | Madrid, Spain | :spiral_calendar: ️2023-06-08 |
 | :office:  HCL Tech | [MS-SQL Database Developer](https://www.opentoworkremote.com/apply/145844) | Madrid, Spain | :spiral_calendar: ️2023-06-08 |
 | :office:  Zillow | [Senior Salesforce Developer](https://www.opentoworkremote.com/apply/145684) | Mexico | :spiral_calendar: ️2023-06-08 |
@@ -1549,6 +1548,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 | :office:  Stripe | [Software Engineer - Machine Learning Infrastructure](https://www.opentoworkremote.com/apply/130364) | US | :spiral_calendar: ️2023-05-17 |
 | :office:   Cribl  | [Poland - Software Engineer (Performance)](https://www.opentoworkremote.com/apply/130374) | Remote. :earth_americas: | :spiral_calendar: ️2023-05-17 |
 | :office:  Plaid | [Experienced Software Engineer - Full Stack (Financial Institutions, Developer Experience)](https://www.opentoworkremote.com/apply/130384) | US | :spiral_calendar: ️2023-05-17 |
+| :office:  POINT Biopharma | [Manager, Internal Audit](https://www.opentoworkremote.com/apply/125814) | EST (UTC-5) | :spiral_calendar: ️2023-05-17 |
 
 ## :man_technologist: :woman_technologist: Are you looking for a remote job? :muscle: :hugs:
 
