@@ -2,7 +2,7 @@
 
 ## Total: 1546 jobs found.
 
-### Last updated: 2023-08-21.
+### Last updated: 2023-08-22.
 
 I would love to maintain this list up-to-date. Keep me motivated :star_struck: by supporting the project with a star :star:.
 
@@ -10,7 +10,6 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 | --- | --- | --- | --- |
 |  :medal_sports:  FYG Consultoría | [Dev Backend PHP](https://www.opentoworkremote.com/apply/224474) | Remote, Argentina | :spiral_calendar: ️2023-08-14 |
 |  :medal_sports:  Memorable | [Sr Back End Developer- Integrations](https://www.opentoworkremote.com/apply/201474) | Remote. :earth_americas: | :spiral_calendar: ️2023-07-26 |
-|  :medal_sports:  Tantius | [Ingeniero Azure](https://www.opentoworkremote.com/apply/192584) | Remote, Mexico | :spiral_calendar: ️2023-07-22 |
 |  :office:  Ioon Technologies SLU | [Junior Business Analyst](https://www.opentoworkremote.com/apply/232474) | Madrid, Spain | :spiral_calendar: ️2023-08-21 |
 |  :office:  Ioon Technologies SLU | [Gestor Junior Procesos](https://www.opentoworkremote.com/apply/232484) | Madrid, Spain | :spiral_calendar: ️2023-08-21 |
 |  :office:  AccelByte | [Software Development Engineer in Test (SDET)](https://www.opentoworkremote.com/apply/232384) | Remote. :earth_americas: | :spiral_calendar: ️2023-08-21 |
@@ -1554,6 +1553,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Parity | [Rust Core Engineer - P2P networking ](https://www.opentoworkremote.com/apply/217134) | Remote. :earth_americas: | :spiral_calendar: ️2023-08-07 |
 |  :office:  Gradle | [Werkstudent Controlling (m/w/d)](https://www.opentoworkremote.com/apply/218414) | Germany | :spiral_calendar: ️2023-08-07 |
 |  :office:  Customerio | [Senior Site Reliability Engineer - NORAM](https://www.opentoworkremote.com/apply/217144) | United States | :spiral_calendar: ️2023-08-07 |
+|  :office:  OpenPhone | [Commercial Account Executive ](https://www.opentoworkremote.com/apply/218424) | Canada | :spiral_calendar: ️2023-08-07 |
 
 ## :man_technologist: :woman_technologist: Are you looking for a job? :muscle: :hugs:
 
