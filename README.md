@@ -2,7 +2,7 @@
 
 ## Total: 1547 jobs found.
 
-### Last updated: 2023-08-23.
+### Last updated: 2023-08-24.
 
 I would love to maintain this list up-to-date. Keep me motivated :star_struck: by supporting the project with a star :star:.
 
@@ -1567,6 +1567,10 @@ It is hard but not impossible. You can do it.
 This job aggregator information is obtained from different sources and public APIs. It is updated daily.
 
 Let me know if you find any errors or incorrect data.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=maurobonfietti/remote-jobs&type=Date)](https://star-history.com/#maurobonfietti/remote-jobs&Date)
 
 ## :pray: :star: Support the project:
 
