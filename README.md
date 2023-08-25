@@ -1557,7 +1557,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Gradle | [Vendor Relations Coordinator](https://www.opentoworkremote.com/apply/223614) | United States | :spiral_calendar: ️2023-08-12 |
 |  :office:  Versapay | [Product Support Specialist](https://www.opentoworkremote.com/apply/222344) | Canada | :spiral_calendar: ️2023-08-12 |
 
-## :man_technologist: :woman_technologist: Are you looking for a job? :muscle: :crossed_fingers: :four_leaf_clover: :hugs:
+## :man_technologist: :woman_technologist: Are you looking for a job? :four_leaf_clover: :crossed_fingers: :muscle: :hugs:
 
 I sent you good luck and good vibes if you are looking for new challenges.
 
