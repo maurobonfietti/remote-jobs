@@ -1,6 +1,6 @@
 # REMOTE JOBS:
 
-## Total: 1521 jobs found.
+## Total: 1522 jobs found.
 
 ### Last updated: 2023-10-04.
 
@@ -49,8 +49,6 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  CareMessage | [Engineering Manager (Remote) USA Product Development – Engineering Full-Time Remote](https://www.opentoworkremote.com/apply/308784) | Remote. :earth_americas: | :spiral_calendar: ️2023-10-04 |
 |  :office:  Amino Apps | [Staff Software Engineer, Backend](https://www.opentoworkremote.com/apply/308484) | Argentina | :spiral_calendar: ️2023-10-04 |
 |  :office:  Amino Apps | [Senior Software Engineer, Full Stack](https://www.opentoworkremote.com/apply/308494) | Argentina | :spiral_calendar: ️2023-10-04 |
-|  :office:  Blavity | [
-                                        Director of Engineering                                    ](https://www.opentoworkremote.com/apply/308794) | Remote. :earth_americas: | :spiral_calendar: ️2023-10-04 |
 |  :office:  Carto | [Director of Engineering Spain (Remote) Engineering Full-time (Remote) Remote](https://www.opentoworkremote.com/apply/308804) | Spain | :spiral_calendar: ️2023-10-04 |
 |  :office:  CaptivateIQ | [Sales – Solutions Engineer Team](https://www.opentoworkremote.com/apply/308814) | Remote. :earth_americas: | :spiral_calendar: ️2023-10-04 |
 |  :office:  Lark | [Senior Staff Software Engineer](https://www.opentoworkremote.com/apply/308824) | Remote. :earth_americas: | :spiral_calendar: ️2023-10-04 |
@@ -1530,6 +1528,8 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Trust & Will | [Senior Backend Engineer](https://www.opentoworkremote.com/apply/291634) | Remote. :earth_americas: | :spiral_calendar: ️2023-09-26 |
 |  :office:  Aiven | [Senior Full-Stack Engineer (Internal tools for Aiven)](https://www.opentoworkremote.com/apply/291644) | Remote. :earth_americas: | :spiral_calendar: ️2023-09-26 |
 |  :office:  Matrix New World Engineering | [Commercial Manager](https://www.opentoworkremote.com/apply/292784) | USA | :spiral_calendar: ️2023-09-26 |
+|  :office:  Canvas | [Full Stack QA](https://www.opentoworkremote.com/apply/292794) | Europe | :spiral_calendar: ️2023-09-26 |
+|  :office:  Valsoft and Aspire Operating Group | [Financial Accountant](https://www.opentoworkremote.com/apply/292804) | Austria | :spiral_calendar: ️2023-09-26 |
 
 ## :man_technologist: :woman_technologist: Are you looking for a job? :four_leaf_clover: :crossed_fingers: :muscle: :hugs:
 
