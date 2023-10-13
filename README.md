@@ -1555,7 +1555,11 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Connext | [Protocol Engineer](https://www.opentoworkremote.com/apply/308664) | Lisbon, Portugal | :spiral_calendar: ️2023-10-04 |
 |  :office:  Verikai | [Director of Engineering](https://www.opentoworkremote.com/apply/308674) | US | :spiral_calendar: ️2023-10-04 |
 
-## :man_technologist: :woman_technologist: Are you looking for a job? :four_leaf_clover: :crossed_fingers: :muscle: :hugs:
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=maurobonfietti/remote-jobs&type=Date)](https://star-history.com/#maurobonfietti/remote-jobs&Date)
+
+## :man_technologist: :woman_technologist: Are you looking for a job? :muscle: :hugs:
 
 I sent you good luck and good vibes if you are looking for new challenges.
 
