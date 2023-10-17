@@ -19,9 +19,6 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Abalia | [Programador IBM Cognos (100% remoto)](https://www.opentoworkremote.com/apply/333744) | Madrid, Spain | :spiral_calendar: ️2023-10-17 |
 |  :office:  Serviguide | [Programador / a Genesys Cloud 100% remoto](https://www.opentoworkremote.com/apply/333754) | Madrid, Spain | :spiral_calendar: ️2023-10-17 |
 |  :office:  PSS | [Operador Linux-Oracle 100%](https://www.opentoworkremote.com/apply/333774) | Madrid, Spain | :spiral_calendar: ️2023-10-17 |
-|  :office:  Lark | [
-          Manager, Data Engineering
-](https://www.opentoworkremote.com/apply/333304) | US | :spiral_calendar: ️2023-10-17 |
 |  :office:  addSolutions | [Consultores Oracle EBS](https://www.opentoworkremote.com/apply/333784) | Barcelona, Spain | :spiral_calendar: ️2023-10-17 |
 |  :office:  addSolutions | [Consultores Oracle EBS](https://www.opentoworkremote.com/apply/333794) | Madrid, Spain | :spiral_calendar: ️2023-10-17 |
 |  :office:  NexTReT | [Programador/a Fullstack - Angular Springboot](https://www.opentoworkremote.com/apply/333804) | Barcelona, Spain | :spiral_calendar: ️2023-10-17 |
@@ -1546,6 +1543,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Zenogroup | [Account Supervisor, Consumer](https://www.opentoworkremote.com/apply/315684) | United States | :spiral_calendar: ️2023-10-07 |
 |  :office:  Podium | [Security Operations Engineer](https://www.opentoworkremote.com/apply/315944) | United States | :spiral_calendar: ️2023-10-07 |
 |  :office:  dhis2 | [UX Design Engineer](https://www.opentoworkremote.com/apply/319784) | Norway | :spiral_calendar: ️2023-10-07 |
+|  :office:  Improbable | [Full Stack Software Engineer – Backend Services](https://www.opentoworkremote.com/apply/315434) | United Kingdom | :spiral_calendar: ️2023-10-07 |
 
 ## Star History
 
