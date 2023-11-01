@@ -97,9 +97,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Rark Solutions | [Principal .NET Developer](https://www.opentoworkremote.com/apply/369154) | United Kingdom UK | :spiral_calendar: ️2023-10-31 |
 |  :office:  Rark Solutions | [Principal Engineer .Net](https://www.opentoworkremote.com/apply/369164) | United Kingdom UK | :spiral_calendar: ️2023-10-31 |
 |  :office:  Actalent | [Embedded Software Developer](https://www.opentoworkremote.com/apply/369174) | Canada CA | :spiral_calendar: ️2023-10-31 |
-|  :office:  Upwork | [Looking for a React JS Expert
-
-](https://www.opentoworkremote.com/apply/369184) | US | :spiral_calendar: ️2023-10-31 |
+|  :office:  Upwork | [Looking for a React JS Expert](https://www.opentoworkremote.com/apply/369184) | US | :spiral_calendar: ️2023-10-31 |
 |  :office:  akkodis | [System Engineer](https://www.opentoworkremote.com/apply/369194) | United States US | :spiral_calendar: ️2023-10-31 |
 |  :office:  Northrop Grumman | [2024 Principal Systems Engineer](https://www.opentoworkremote.com/apply/369204) | United States US | :spiral_calendar: ️2023-10-31 |
 |  :office:  Booz Allen Hamilton | [Systems Engineer Jobs](https://www.opentoworkremote.com/apply/369214) | Tinker AFB OK United States US | :spiral_calendar: ️2023-10-31 |
