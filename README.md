@@ -247,8 +247,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  salonkee | [Talent Acquisition Specialist (DE) - f/m/x](https://www.opentoworkremote.com/apply/387894) | Germany, Luxembourg | :spiral_calendar: ️2023-11-09 |
 |  :office:  EMF Media | [Social Media & Community Manager](https://www.opentoworkremote.com/apply/387904) | USA | :spiral_calendar: ️2023-11-09 |
 |  :office:  Optimal Dynamics | [Software Engineer, Generalist](https://www.opentoworkremote.com/apply/385844) | Remote. :earth_americas: | :spiral_calendar: ️2023-11-09 |
-|  :office:  Deepki | [Technicien intégration (f/m/nb)  - Paris Software Engineering Deepki SAS 
-    Hybrid Remote](https://www.opentoworkremote.com/apply/385854) | Remote. :earth_americas: | :spiral_calendar: ️2023-11-09 |
+|  :office:  Deepki | [Technicien intégration (f/m/nb)  - Paris Software Engineering](https://www.opentoworkremote.com/apply/385854) | Remote. :earth_americas: | :spiral_calendar: ️2023-11-09 |
 |  :office:  Huntress | [Senior Manager, Detection Engineering](https://www.opentoworkremote.com/apply/385864) | Remote. :earth_americas: | :spiral_calendar: ️2023-11-09 |
 |  :office:  Alation, Inc. | [Senior Technical Writer](https://www.opentoworkremote.com/apply/387674) | Redwood City, CA | :spiral_calendar: ️2023-11-09 |
 |  :office:  Stay In The Game | [Placement Advisor](https://www.opentoworkremote.com/apply/387914) | USA | :spiral_calendar: ️2023-11-09 |
