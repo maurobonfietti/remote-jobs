@@ -26,8 +26,6 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Ecosia | [Software Engineer - Frontend (all genders)](https://www.opentoworkremote.com/apply/395854) | Remote. :earth_americas: | :spiral_calendar: ️2023-11-14 |
 |  :office:  Hydrow | [Data Engineer](https://www.opentoworkremote.com/apply/395864) | Boston, MA | :spiral_calendar: ️2023-11-14 |
 |  :office:  Cavnue | [Senior Software Engineer, Frameworks](https://www.opentoworkremote.com/apply/395874) | US | :spiral_calendar: ️2023-11-14 |
-|  :office:  Cavnue | [Senior Engineering Manager, Platform 
-Remote](https://www.opentoworkremote.com/apply/395884) | US | :spiral_calendar: ️2023-11-14 |
 |  :office:  SumUp | [Staff Engineer](https://www.opentoworkremote.com/apply/395794) | Brazil | :spiral_calendar: ️2023-11-14 |
 |  :office:  Omnipresent | [Senior Software Engineer (Python) - Fully Remote](https://www.opentoworkremote.com/apply/395894) | Remote. :earth_americas: | :spiral_calendar: ️2023-11-14 |
 |  :office:  Omnipresent | [Senior Software Engineer (Python) - Fully Remote](https://www.opentoworkremote.com/apply/395904) | EMEA | :spiral_calendar: ️2023-11-14 |
@@ -1569,6 +1567,7 @@ Remote](https://www.opentoworkremote.com/apply/395884) | US | :spiral_calendar: 
 |  :office:  Hostwise | [Sales Acquisition Specialist](https://www.opentoworkremote.com/apply/378754) | Portugal | :spiral_calendar: ️2023-11-05 |
 |  :office:  Northstarnetwork | [Chef de projet SEO Senior BR - (🇧🇷 speaking)](https://www.opentoworkremote.com/apply/378764) | Europe, Brazil | :spiral_calendar: ️2023-11-05 |
 |  :office:  Solar Landscape | [Associate Director Workforce Development & Grants](https://www.opentoworkremote.com/apply/378674) | Asbury Park | :spiral_calendar: ️2023-11-05 |
+|  :office:  Vivun | [Product Designer](https://www.opentoworkremote.com/apply/378774) | Northern America | :spiral_calendar: ️2023-11-05 |
 
 ## Star History
 
