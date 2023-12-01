@@ -48,10 +48,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  OpenPhone | [Senior Backend Engineer](https://www.opentoworkremote.com/apply/443334) | Remote. :earth_americas: | :spiral_calendar: ️2023-12-01 |
 |  :office:  OpenPhone | [Backend Engineer](https://www.opentoworkremote.com/apply/443344) | Remote. :earth_americas: | :spiral_calendar: ️2023-12-01 |
 |  :office:  Hightouch | [Senior Analytics Engineer](https://www.opentoworkremote.com/apply/443354) | Remote. :earth_americas: | :spiral_calendar: ️2023-12-01 |
-|  :office:  Edgenuity | [Senior Software Engineering Manager Remote 
-
-        
-            United States](https://www.opentoworkremote.com/apply/443364) | Remote. :earth_americas: | :spiral_calendar: ️2023-12-01 |
+|  :office:  Edgenuity | [Senior Software Engineering Manager Remote](https://www.opentoworkremote.com/apply/443364) | Remote. :earth_americas: | :spiral_calendar: ️2023-12-01 |
 |  :office:  Tide | [Customer Service Associate](https://www.opentoworkremote.com/apply/444434) | Delhi NCR, Hybrid | :spiral_calendar: ️2023-12-01 |
 |  :office:  Uniphore | [Sr. Technical Solutions Engineer - US Shift](https://www.opentoworkremote.com/apply/443374) | US | :spiral_calendar: ️2023-12-01 |
 |  :office:  Databricks | [BDR](https://www.opentoworkremote.com/apply/444474) | São Paulo, Brazil | :spiral_calendar: ️2023-12-01 |
