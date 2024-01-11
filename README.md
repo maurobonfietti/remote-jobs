@@ -2,7 +2,7 @@
 
 ## Total: 1587 jobs found.
 
-### Last updated: 2024-01-10.
+### Last updated: 2024-01-11.
 
 I would love to maintain this list up-to-date. Keep me motivated :star_struck: by supporting the project with a star :star:.
 
