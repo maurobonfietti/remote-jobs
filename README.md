@@ -330,8 +330,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Invisible | [Advanced AI Trainer Software Development (Full-Stack Developers)](https://www.opentoworkremote.com/apply/568724) | Worldwide - Remote | :spiral_calendar: ️2024-01-12 |
 |  :office:  Oportun | [Sr Software Engineer, Fraud](https://www.opentoworkremote.com/apply/567074) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-12 |
 |  :office:  Brightcove | [Associate Software Engineer - Front end](https://www.opentoworkremote.com/apply/566914) | Mexico | :spiral_calendar: ️2024-01-12 |
-|  :office:  Automata | [Engineering Manager Product Engineering & Design HQ  
-    Hybrid Remote](https://www.opentoworkremote.com/apply/567084) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-12 |
+|  :office:  Automata | [Engineering Manager Product Engineering & Design HQ](https://www.opentoworkremote.com/apply/567084) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-12 |
 |  :office:  DrHouse, Inc. | [Physician - Dermatology (Telemedicine)](https://www.opentoworkremote.com/apply/570054) | USA | :spiral_calendar: ️2024-01-12 |
 |  :office:  reborrn | [Principal Consultant](https://www.opentoworkremote.com/apply/570064) | Greece | :spiral_calendar: ️2024-01-12 |
 |  :office:  ModernHealth | [Senior Site Reliability Engineer](https://www.opentoworkremote.com/apply/567094) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-12 |
