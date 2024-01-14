@@ -783,8 +783,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Revinate | [DevOps Engineer*](https://www.opentoworkremote.com/apply/563354) | Vancouver, British Columbia | :spiral_calendar: ️2024-01-11 |
 |  :office:  Five9 | [.NET Software Engineer II](https://www.opentoworkremote.com/apply/563364) | US | :spiral_calendar: ️2024-01-11 |
 |  :office:  OpenTable | [Senior Security Engineer (Remote, Canada)](https://www.opentoworkremote.com/apply/563374) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-11 |
-|  :office:  Fnality International | [Platform Engineering Lead Tech and Ops London 
-    Hybrid Remote](https://www.opentoworkremote.com/apply/563384) | London, UK | :spiral_calendar: ️2024-01-11 |
+|  :office:  Fnality International | [Platform Engineering Lead Tech and Ops London](https://www.opentoworkremote.com/apply/563384) | London, UK | :spiral_calendar: ️2024-01-11 |
 |  :office:  Liftoff | [Senior Software Engineer (Backend)](https://www.opentoworkremote.com/apply/563394) | US | :spiral_calendar: ️2024-01-11 |
 |  :office:  Shippo | [Product Support Specialist](https://www.opentoworkremote.com/apply/566744) | Mexico | :spiral_calendar: ️2024-01-11 |
 |  :office:  Brightwheel | [Senior Software Engineer, Backend](https://www.opentoworkremote.com/apply/563404) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-11 |
