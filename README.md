@@ -1,8 +1,8 @@
 # REMOTE JOBS:
 
-## Total: 1625 jobs found.
+## Total: 1622 jobs found.
 
-### Last updated: 2024-01-14.
+### Last updated: 2024-01-15.
 
 I would love to maintain this list up-to-date. Keep me motivated :star_struck: by supporting the project with a star :star:.
 
@@ -11,6 +11,185 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :medal_sports:  Xepelin | [Senior Software Engineer (Backend)](https://www.opentoworkremote.com/apply/546854) | Argentina, LATAM | :spiral_calendar: ️2024-01-05 |
 |  :medal_sports:  HostiFi | [Network Engineer](https://www.opentoworkremote.com/apply/532224) | Remote, United States | :spiral_calendar: ️2023-12-30 |
 |  :medal_sports:  Calo | [Full Stack Engineer](https://www.opentoworkremote.com/apply/526754) | Seef, Bahrain | :spiral_calendar: ️2023-12-28 |
+|  :office:  Aubay | [Toxic Manager](https://www.opentoworkremote.com/apply/576994) | Madrid, Spain | :spiral_calendar: ️2024-01-15 |
+|  :office:  novanotio | [API Designer specialist](https://www.opentoworkremote.com/apply/576984) | Madrid, Spain | :spiral_calendar: ️2024-01-15 |
+|  :office:  Grupo ICA | [Maquetador 100% remoto](https://www.opentoworkremote.com/apply/577004) | Madrid, Spain | :spiral_calendar: ️2024-01-15 |
+|  :office:  M & GT Consulting | [Microsoft Dynamics 365 Consultant](https://www.opentoworkremote.com/apply/577014) | Madrid, Spain | :spiral_calendar: ️2024-01-15 |
+|  :office:  Udacity | [Session Lead (External Contractor) - React Developer Nanodegree (UAE)](https://www.opentoworkremote.com/apply/576164) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-15 |
+|  :office:  M & GT Consulting | [Full Stack Developer](https://www.opentoworkremote.com/apply/577024) | Madrid, Spain | :spiral_calendar: ️2024-01-15 |
+|  :office:  Randstad Professionals | [Comercial - GPV](https://www.opentoworkremote.com/apply/577034) | Barcelona, Spain | :spiral_calendar: ️2024-01-15 |
+|  :office:  OpenZeppelin | [Open Source Developer - Rust](https://www.opentoworkremote.com/apply/576174) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-15 |
+|  :office:  OneStudyTeam | [Engineering Manager, Product Platform](https://www.opentoworkremote.com/apply/576184) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-15 |
+|  :office:  OneLocal | [Senior Software Developer](https://www.opentoworkremote.com/apply/576194) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-15 |
+|  :office:  Oyster | [Senior BI Engineer](https://www.opentoworkremote.com/apply/576204) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-15 |
+|  :office:  Outliant | [Talent Pool: Senior NodeJS Backend Developer](https://www.opentoworkremote.com/apply/576044) | LATAM | :spiral_calendar: ️2024-01-15 |
+|  :office:  Outliant | [Talent Pool: Senior Frontend Generalist Engineer (with Webflow expertise)](https://www.opentoworkremote.com/apply/576054) | LATAM | :spiral_calendar: ️2024-01-15 |
+|  :office:  Outliant | [Senior Full-Stack React/Node/Typescript Engineer](https://www.opentoworkremote.com/apply/576064) | LATAM | :spiral_calendar: ️2024-01-15 |
+|  :office:  Oura | [Engineering Manager, Mobile Development](https://www.opentoworkremote.com/apply/576214) | New York, NY | :spiral_calendar: ️2024-01-15 |
+|  :office:  Oura | [Backend Engineer, Commerce Platform](https://www.opentoworkremote.com/apply/576224) | San Francisco, CA | :spiral_calendar: ️2024-01-15 |
+|  :office:  OSOM | [Systems Software Engineer](https://www.opentoworkremote.com/apply/576234) | Cupertino, CA | :spiral_calendar: ️2024-01-15 |
+|  :office:  OSOM | [Software QA Engineer](https://www.opentoworkremote.com/apply/576244) | Cupertino, CA | :spiral_calendar: ️2024-01-15 |
+|  :office:  OSOM | [Software Engineer](https://www.opentoworkremote.com/apply/576254) | Cupertino, CA | :spiral_calendar: ️2024-01-15 |
+|  :office:  OSOM | [Senior Camera Systems Engineer](https://www.opentoworkremote.com/apply/576264) | Cupertino, CA | :spiral_calendar: ️2024-01-15 |
+|  :office:  OSOM | [Program Manager - Software](https://www.opentoworkremote.com/apply/576274) | Cupertino, CA | :spiral_calendar: ️2024-01-15 |
+|  :office:  OSOM | [Junior Software Engineer](https://www.opentoworkremote.com/apply/576284) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-15 |
+|  :office:  Perpetua | [Data Engineer](https://www.opentoworkremote.com/apply/576294) | Dublin, Ireland | :spiral_calendar: ️2024-01-15 |
+|  :office:  PayFit | [Senior Software Engineer - Time](https://www.opentoworkremote.com/apply/576304) | Paris, France | :spiral_calendar: ️2024-01-15 |
+|  :office:  PayFit | [Senior Software Engineer - Low Code Build & Run](https://www.opentoworkremote.com/apply/576314) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-15 |
+|  :office:  PayFit | [Senior Software Engineer - Employee Setup](https://www.opentoworkremote.com/apply/576324) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-15 |
+|  :office:  PayFit | [Senior Fullstack Software Engineer - Expand](https://www.opentoworkremote.com/apply/576334) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-15 |
+|  :office:  PayFit | [Senior Application Security Engineer](https://www.opentoworkremote.com/apply/576344) | Barcelona, Spain | :spiral_calendar: ️2024-01-15 |
+|  :office:  Plotly | [Staff Software Engineer, Full stack, Data Connectors](https://www.opentoworkremote.com/apply/576354) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-15 |
+|  :office:  Plotly | [Senior Software Engineer, Full stack, App Studio](https://www.opentoworkremote.com/apply/576364) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-15 |
+|  :office:  Plotly | [Senior Software Developer in Test](https://www.opentoworkremote.com/apply/576374) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-15 |
+|  :office:  Plotly | [Lead, Software Test Automation](https://www.opentoworkremote.com/apply/576384) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-15 |
+|  :office:  Pindrop | [Staff Software Engineer  (Backend Golang)](https://www.opentoworkremote.com/apply/576394) | US | :spiral_calendar: ️2024-01-15 |
+|  :office:  Pindrop | [Senior Software Engineer (MLOps)](https://www.opentoworkremote.com/apply/576404) | US | :spiral_calendar: ️2024-01-15 |
+|  :office:  Pindrop | [Senior Cloud Network Engineer](https://www.opentoworkremote.com/apply/576414) | US | :spiral_calendar: ️2024-01-15 |
+|  :office:  Physna | [Lead Software Engineer](https://www.opentoworkremote.com/apply/576424) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-15 |
+|  :office:  Physna | [Application Security Engineer](https://www.opentoworkremote.com/apply/576434) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-15 |
+|  :office:  Prelim | [Software Engineer (SF Remote)](https://www.opentoworkremote.com/apply/576444) | San Francisco, CA | :spiral_calendar: ️2024-01-15 |
+|  :office:  Prelim | [Software Engineer (NY Remote)](https://www.opentoworkremote.com/apply/576454) | New York, NY | :spiral_calendar: ️2024-01-15 |
+|  :office:  Santander Bank | [Java Senior Software Engineer - Development - Openbank (Openhub Bilbao)](https://www.opentoworkremote.com/apply/576074) | Buenos Aires, Argentina | :spiral_calendar: ️2024-01-15 |
+|  :office:  Santander Bank | [ARG SR Tech Engineer](https://www.opentoworkremote.com/apply/576084) | Argentina | :spiral_calendar: ️2024-01-15 |
+|  :office:  Santander Bank | [SR Software Engineer](https://www.opentoworkremote.com/apply/576094) | Argentina | :spiral_calendar: ️2024-01-15 |
+|  :office:  Santander Bank | [ARG_SR Software Engineer](https://www.opentoworkremote.com/apply/576104) | Argentina | :spiral_calendar: ️2024-01-15 |
+|  :office:  Santander Bank | [SSR Tech Engineer](https://www.opentoworkremote.com/apply/576114) | Argentina | :spiral_calendar: ️2024-01-15 |
+|  :office:  Santander Bank | [Espec Exp Cliente IV - (Tech Lead Backend) SAO PAULO](https://www.opentoworkremote.com/apply/576124) | Brazil | :spiral_calendar: ️2024-01-15 |
+|  :office:  D-ploy | [Administrative IT support](https://www.opentoworkremote.com/apply/576774) | Remote, Czechia | :spiral_calendar: ️2024-01-15 |
+|  :office:  Staffaro | [SEO Specialist](https://www.opentoworkremote.com/apply/576784) | Remote, South Africa | :spiral_calendar: ️2024-01-15 |
+|  :office:  Staffaro | [SEO Specialist](https://www.opentoworkremote.com/apply/576794) | Remote, Nigeria | :spiral_calendar: ️2024-01-15 |
+|  :office:  Commmune Inc. | [Server side Engineer Enterprise / サーバーサイドエンジニア エンタープライズ](https://www.opentoworkremote.com/apply/576804) | Remote, Japan | :spiral_calendar: ️2024-01-15 |
+|  :office:  ManpowerGroup Greece | [B2B Τεχνικός Πωλήσεων Οικοδομικών Υλικών (Τρίπολη)](https://www.opentoworkremote.com/apply/576814) | Remote, Greece | :spiral_calendar: ️2024-01-15 |
+|  :office:  Clarity AI | [Thought Leadership Lead](https://www.opentoworkremote.com/apply/576834) | Remote, Spain | :spiral_calendar: ️2024-01-15 |
+|  :office:  ManpowerGroup Greece | [B2B Τεχνικός Πωλήσεων Οικοδομικών Υλικών (Αθήνα)](https://www.opentoworkremote.com/apply/576844) | Remote, Greece | :spiral_calendar: ️2024-01-15 |
+|  :office:  Zyte | [Global Sales Manager - Remote](https://www.opentoworkremote.com/apply/576594) | Remote, United Kingdom | :spiral_calendar: ️2024-01-15 |
+|  :office:  iTechScope | [Senior Full-Stack Developer](https://www.opentoworkremote.com/apply/576854) | Remote, Greece | :spiral_calendar: ️2024-01-15 |
+|  :office:  The Insiders | [Campaign Operations Support - French](https://www.opentoworkremote.com/apply/576604) | Remote, France | :spiral_calendar: ️2024-01-15 |
+|  :office:  DreamHire.com | [Amazon and E-commerce Manager (For Active Pooling) 005](https://www.opentoworkremote.com/apply/576864) | Remote, Philippines | :spiral_calendar: ️2024-01-15 |
+|  :office:  The Insiders | [Community Engagement Manager Support - Internship](https://www.opentoworkremote.com/apply/576614) | Remote, Netherlands | :spiral_calendar: ️2024-01-15 |
+|  :office:  SAP Fioneer | [SAP Technical Consultant (m/f/d)](https://www.opentoworkremote.com/apply/576874) | Remote, Germany | :spiral_calendar: ️2024-01-15 |
+|  :office:  Two Circles | [Data Engineer (Mid-level)](https://www.opentoworkremote.com/apply/576624) | Remote, United Kingdom | :spiral_calendar: ️2024-01-15 |
+|  :office:  LegalMatch.com | [Call Team Manager (Remote, Night Shift)](https://www.opentoworkremote.com/apply/576884) | Remote, Philippines | :spiral_calendar: ️2024-01-15 |
+|  :office:  LiquidX | [Technical Artist-Manager](https://www.opentoworkremote.com/apply/576634) | Remote, United Kingdom | :spiral_calendar: ️2024-01-15 |
+|  :office:  Paired | [Customer Service Representative for US Based Company (Remote)](https://www.opentoworkremote.com/apply/576894) | Remote, Indonesia | :spiral_calendar: ️2024-01-15 |
+|  :office:  Jagex Limited | [Lead Analyst - Old School Runescape](https://www.opentoworkremote.com/apply/576644) | Remote, United Kingdom | :spiral_calendar: ️2024-01-15 |
+|  :office:  CXG | [Freelance Brand Evaluator for Watch project in Malaysia](https://www.opentoworkremote.com/apply/576904) | Remote, Malaysia | :spiral_calendar: ️2024-01-15 |
+|  :office:  Sunscrapers sp. z o.o. | [Senior QA Engineer](https://www.opentoworkremote.com/apply/576654) | Remote, Poland | :spiral_calendar: ️2024-01-15 |
+|  :office:  Elevate and Delegate | [General Admin Assistant / Financial Analyst / Property Management](https://www.opentoworkremote.com/apply/576914) | Remote, Philippines | :spiral_calendar: ️2024-01-15 |
+|  :office:  PTW | [Spanish Player Support Advocate](https://www.opentoworkremote.com/apply/576664) | Remote, Poland | :spiral_calendar: ️2024-01-15 |
+|  :office:  Cure HHT | [Grant Administrative Assistant](https://www.opentoworkremote.com/apply/576924) | Remote, United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  PTW | [Spanish Player Support Advocate](https://www.opentoworkremote.com/apply/576674) | Remote, Romania | :spiral_calendar: ️2024-01-15 |
+|  :office:  Remotivate LLC | [Sr. Planning and Business Strategist for Learning Consultancy](https://www.opentoworkremote.com/apply/576934) | Remote, United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  IT Labs | [.NET Engineer](https://www.opentoworkremote.com/apply/576684) | Remote, United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Remotivate LLC | [Sr. Consultant for Professional and Trade Associations](https://www.opentoworkremote.com/apply/576944) | Remote, United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  IT Labs | [.NET Engineer](https://www.opentoworkremote.com/apply/576694) | Remote, United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Premier Media | [Sales Specialist for Amazon Agency AR](https://www.opentoworkremote.com/apply/576954) | Remote, Argentina | :spiral_calendar: ️2024-01-15 |
+|  :office:  Spotlight Sports Group | [Senior Website Editor - Gosu Sports and Racing](https://www.opentoworkremote.com/apply/576704) | Remote, United Kingdom | :spiral_calendar: ️2024-01-15 |
+|  :office:  AlGooru | [Head of Growth](https://www.opentoworkremote.com/apply/576714) | Remote, Jordan | :spiral_calendar: ️2024-01-15 |
+|  :office:  Quistor | [Junior JD Edwards Consultant. Native Dutch Speaker](https://www.opentoworkremote.com/apply/576974) | Remote, Netherlands | :spiral_calendar: ️2024-01-15 |
+|  :office:  HSE Safety partners | [Graphic Designer](https://www.opentoworkremote.com/apply/576724) | Remote, United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Elevate and Delegate | [Operations Specialist - E-Commerce (Amazon)](https://www.opentoworkremote.com/apply/576734) | Remote, Philippines | :spiral_calendar: ️2024-01-15 |
+|  :office:  d-block | [Adtech developer](https://www.opentoworkremote.com/apply/576744) | Remote, France | :spiral_calendar: ️2024-01-15 |
+|  :office:  Elevate and Delegate | [Business Development Representative](https://www.opentoworkremote.com/apply/576754) | Remote, Philippines | :spiral_calendar: ️2024-01-15 |
+|  :office:  SILA Linguists | [Albanian Interpreters Required at SILA Linguists](https://www.opentoworkremote.com/apply/576764) | Remote, United Kingdom | :spiral_calendar: ️2024-01-15 |
+|  :office:  Great Good Venture Studio | [Full Stack Developer (Front-End Focused)](https://www.opentoworkremote.com/apply/576514) | Latin America Only | :spiral_calendar: ️2024-01-15 |
+|  :office:  Monzo | [Recoveries Financial Health Advisor](https://www.opentoworkremote.com/apply/577794) | United Kingdom | :spiral_calendar: ️2024-01-15 |
+|  :office:  Blueground | [Product Designer - Mobile App ](https://www.opentoworkremote.com/apply/577284) | Greece | :spiral_calendar: ️2024-01-15 |
+|  :office:  Secure Code Warrior | [Vice President, Demand Generation](https://www.opentoworkremote.com/apply/578054) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Elite Software Automation | [Business Process Analyst](https://www.opentoworkremote.com/apply/576524) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-15 |
+|  :office:  Zipdev | [Mid Marketing Assistant](https://www.opentoworkremote.com/apply/577804) | Paraguay | :spiral_calendar: ️2024-01-15 |
+|  :office:  RevenueCat | [Senior Paid Marketing Manager](https://www.opentoworkremote.com/apply/577294) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Wealthfront | [Broker Dealer Accountant](https://www.opentoworkremote.com/apply/578064) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  E-Commerce Intelligence Tool | [Backend Developer for On Demand Web Scraper](https://www.opentoworkremote.com/apply/576534) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-15 |
+|  :office:  Kong | [Business Development Representative (BDR)](https://www.opentoworkremote.com/apply/577814) | United Kingdom | :spiral_calendar: ️2024-01-15 |
+|  :office:  Vida | [VP Sales - West](https://www.opentoworkremote.com/apply/577304) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  TeamSnap | [Field Marketing Manager](https://www.opentoworkremote.com/apply/578074) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Pronto Group Inc. | [Digital Marketing Sales Account Executive Rep](https://www.opentoworkremote.com/apply/577054) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-15 |
+|  :office:  Builder Prime | [Senior Software Engineer (Java)](https://www.opentoworkremote.com/apply/576544) | Latin America Only | :spiral_calendar: ️2024-01-15 |
+|  :office:  Sprinto | [Technical Onboarding / Implementation Specialist (B2B SaaS) - Remote](https://www.opentoworkremote.com/apply/577824) | India | :spiral_calendar: ️2024-01-15 |
+|  :office:  RenoFi | [Mortgage Loan Officer](https://www.opentoworkremote.com/apply/577314) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Kong | [Enterprise Account Executive, Central - Ohio/Michigan](https://www.opentoworkremote.com/apply/578084) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Platform.sh | [Director, General Counsel](https://www.opentoworkremote.com/apply/577834) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-15 |
+|  :office:  Restaurant365 | [Account Executive, SMB - Milwaukee, WI](https://www.opentoworkremote.com/apply/577324) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Spreetail Inc. | [Amazon Listing Health Specialist](https://www.opentoworkremote.com/apply/578094) | Philippines | :spiral_calendar: ️2024-01-15 |
+|  :office:  Zowie | [Senior Support Engineer](https://www.opentoworkremote.com/apply/577844) | Poland | :spiral_calendar: ️2024-01-15 |
+|  :office:  TaskRabbit | [Screening Specialist](https://www.opentoworkremote.com/apply/577334) | United Kingdom | :spiral_calendar: ️2024-01-15 |
+|  :office:  Offensive Security | [Front End Web Developer](https://www.opentoworkremote.com/apply/578104) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Pigment | [Revenue Enablement Manager](https://www.opentoworkremote.com/apply/577084) | United Kingdom | :spiral_calendar: ️2024-01-15 |
+|  :office:  Flo Health | [Medical Advisor - AI](https://www.opentoworkremote.com/apply/577854) | Lithuania | :spiral_calendar: ️2024-01-15 |
+|  :office:  Scorpion | [Senior Product Marketing Manager, Go-to-Market (GTM)](https://www.opentoworkremote.com/apply/577344) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Hostinger | [Junior Customer Success Specialist (EN language)](https://www.opentoworkremote.com/apply/578114) | Brazil | :spiral_calendar: ️2024-01-15 |
+|  :office:  Optimism | [Communications Manager](https://www.opentoworkremote.com/apply/577864) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-15 |
+|  :office:  Icertis | [Senior Software Engineer - Testing (Manual + Automation) - Platform Experience](https://www.opentoworkremote.com/apply/577354) | India | :spiral_calendar: ️2024-01-15 |
+|  :office:  EasyPost | [Software Engineer II](https://www.opentoworkremote.com/apply/578124) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  2K | [Manager, Global Product Marketing - NBA2K](https://www.opentoworkremote.com/apply/577104) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Klue | [Value Consulting Intern](https://www.opentoworkremote.com/apply/577874) | Canada | :spiral_calendar: ️2024-01-15 |
+|  :office:  Agicap | [Sales Administration Manager](https://www.opentoworkremote.com/apply/577364) | Italy | :spiral_calendar: ️2024-01-15 |
+|  :office:  Yuno | [Sales Representative](https://www.opentoworkremote.com/apply/578134) | Mexico | :spiral_calendar: ️2024-01-15 |
+|  :office:  Airbase | [Revenue Operations Manager](https://www.opentoworkremote.com/apply/577114) | Mexico | :spiral_calendar: ️2024-01-15 |
+|  :office:  Roo | [Business Development Director - Central Region](https://www.opentoworkremote.com/apply/577884) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  BitGo | [Senior Fullstack Engineer](https://www.opentoworkremote.com/apply/577374) | India | :spiral_calendar: ️2024-01-15 |
+|  :office:  EasyPost | [Senior Accounts Receivables Accountant](https://www.opentoworkremote.com/apply/578144) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Babylist | [Full Stack Software Engineer, Babylist Shop](https://www.opentoworkremote.com/apply/577124) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  CareRev | [Content Marketing Manager](https://www.opentoworkremote.com/apply/577894) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Secureframe | [Account Executive - SMB](https://www.opentoworkremote.com/apply/577384) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Kong | [Enterprise Account Executive - UK](https://www.opentoworkremote.com/apply/578154) | United Kingdom | :spiral_calendar: ️2024-01-15 |
+|  :office:  Connectly | [Software Engineer(Machine Learning)](https://www.opentoworkremote.com/apply/577134) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Sprinto | [Talent Acquisition Specialist - Global Hiring](https://www.opentoworkremote.com/apply/577904) | India | :spiral_calendar: ️2024-01-15 |
+|  :office:  BlueConic | [Java Software Engineer](https://www.opentoworkremote.com/apply/577394) | Netherlands | :spiral_calendar: ️2024-01-15 |
+|  :office:  Palantir Technologies | [Forward Deployed Operations Engineer](https://www.opentoworkremote.com/apply/578164) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Raft | [Senior GRC Analyst](https://www.opentoworkremote.com/apply/577144) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  AppHub | [FP&A Manager](https://www.opentoworkremote.com/apply/577914) | Canada | :spiral_calendar: ️2024-01-15 |
+|  :office:  Coreresponse | [Program Coordinator](https://www.opentoworkremote.com/apply/577404) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  ThoughtSpot | [Customer Support Analyst](https://www.opentoworkremote.com/apply/578174) | India | :spiral_calendar: ️2024-01-15 |
+|  :office:  SwordHealth | [Head of Engineering](https://www.opentoworkremote.com/apply/577154) | Portugal | :spiral_calendar: ️2024-01-15 |
+|  :office:  Hostinger | [Senior Editor Team Lead](https://www.opentoworkremote.com/apply/577924) | Lithuania | :spiral_calendar: ️2024-01-15 |
+|  :office:  Kivaconfections | [Territory Manager - Metro Detroit, North](https://www.opentoworkremote.com/apply/577414) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Tonkean | [Enterprise Account Executive - Atlanta](https://www.opentoworkremote.com/apply/577164) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  ReCharge | [Manager, Data Engineering](https://www.opentoworkremote.com/apply/577934) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Nextpay | [Business Development Specialist - Sales](https://www.opentoworkremote.com/apply/577424) | Philippines | :spiral_calendar: ️2024-01-15 |
+|  :office:  JustAnswer | [Senior Category Moderator](https://www.opentoworkremote.com/apply/577174) | Ukraine | :spiral_calendar: ️2024-01-15 |
+|  :office:  TravelShopBooking | [Dijital Pazarlama Uzmanı](https://www.opentoworkremote.com/apply/577944) | Turkey | :spiral_calendar: ️2024-01-15 |
+|  :office:  Unqork | [Senior Cloud Infrastructure Engineer](https://www.opentoworkremote.com/apply/577434) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Huntress | [SecurityOps Center Analyst- Hawaii (+ Weekends)](https://www.opentoworkremote.com/apply/577184) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Campus | [Full Stack Development Program Director](https://www.opentoworkremote.com/apply/577954) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Minted | [Senior Director, Customer Operations](https://www.opentoworkremote.com/apply/577444) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Pipedrive | [Sales Operations Specialist](https://www.opentoworkremote.com/apply/577194) | Portugal | :spiral_calendar: ️2024-01-15 |
+|  :office:  Headway | [Growth Marketing Lead, Paid Search](https://www.opentoworkremote.com/apply/577964) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Enable | [People Administrator](https://www.opentoworkremote.com/apply/577454) | Canada | :spiral_calendar: ️2024-01-15 |
+|  :office:  Yembo | [VP of Sales (Remote)](https://www.opentoworkremote.com/apply/577204) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-15 |
+|  :office:  Hubstaff | [Customer Success Manager - Poland](https://www.opentoworkremote.com/apply/577974) | Poland | :spiral_calendar: ️2024-01-15 |
+|  :office:  Agreena | [Senior Frontend Developer (Remote - EU)](https://www.opentoworkremote.com/apply/577464) | Denmark | :spiral_calendar: ️2024-01-15 |
+|  :office:  eSimplicity | [Data Scientist](https://www.opentoworkremote.com/apply/577214) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  TravelShopBooking | [Online Tourradar GetYourGuide E Ticaret kanalında görev alacak deneyimli](https://www.opentoworkremote.com/apply/577984) | Turkey | :spiral_calendar: ️2024-01-15 |
+|  :office:  Zenogroup | [Account Supervisor, Health + Wellness](https://www.opentoworkremote.com/apply/577474) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Yamazaki Europe GmbH | [Industrial Designer](https://www.opentoworkremote.com/apply/578754) | Düsseldorf, Germany | :spiral_calendar: ️2024-01-15 |
+|  :office:  Apollo.io | [Principal Product Manager, Ecosystem/Integrations](https://www.opentoworkremote.com/apply/577224) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  ThoughtSpot | [Senior Manager, SRE](https://www.opentoworkremote.com/apply/577994) | India | :spiral_calendar: ️2024-01-15 |
+|  :office:  Fortune | [West Coast Editor](https://www.opentoworkremote.com/apply/577484) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Orchard | [Licensed Real Estate Agent](https://www.opentoworkremote.com/apply/577234) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Stripe | [Software Engineer, Notebooks](https://www.opentoworkremote.com/apply/578004) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  MetLife | [Liady Martinez - Gerente de Unidad en Formación - Cali](https://www.opentoworkremote.com/apply/577494) | Colombia | :spiral_calendar: ️2024-01-15 |
+|  :office:  Calm | [Mid-Market Account Executive](https://www.opentoworkremote.com/apply/577244) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Pachama | [Forest Carbon Modeling Lead](https://www.opentoworkremote.com/apply/578014) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Mirego | [Chargé / Chargée de projet Agile](https://www.opentoworkremote.com/apply/577254) | Canada | :spiral_calendar: ️2024-01-15 |
+|  :office:  Anderson Optimization | [Software Quality Assurance (QA) Engineer - Remote](https://www.opentoworkremote.com/apply/578024) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Zenogroup | [Consumer Intern](https://www.opentoworkremote.com/apply/577264) | United States | :spiral_calendar: ️2024-01-15 |
+|  :office:  Typeform | [Senior Revenue Accountant](https://www.opentoworkremote.com/apply/578034) | Ireland | :spiral_calendar: ️2024-01-15 |
+|  :office:  FamPay | [Legal Intern](https://www.opentoworkremote.com/apply/577784) | India | :spiral_calendar: ️2024-01-15 |
+|  :office:  ília | [SR  - QA Funcional/ Manual](https://www.opentoworkremote.com/apply/578044) | Malawi | :spiral_calendar: ️2024-01-15 |
+|  :office:  GoodTime | [Growth Marketing Manager](https://www.opentoworkremote.com/apply/575624) | USA | :spiral_calendar: ️2024-01-14 |
+|  :office:  Jonas Software | [Senior Full Stack Engineer](https://www.opentoworkremote.com/apply/578654) | Canada CA | :spiral_calendar: ️2024-01-14 |
+|  :office:  NCR Corporation | [UI Frontend Architect](https://www.opentoworkremote.com/apply/578664) | Canada CA | :spiral_calendar: ️2024-01-14 |
+|  :office:  Actalent | [Systems Engineer (Avionic Systems)](https://www.opentoworkremote.com/apply/578684) | Canada CA | :spiral_calendar: ️2024-01-14 |
+|  :office:  Talentify.io | [Senior Software Engineer (Remote)](https://www.opentoworkremote.com/apply/578694) | United States US | :spiral_calendar: ️2024-01-14 |
+|  :office:  First American Financial | [(Remote) Software Engineer](https://www.opentoworkremote.com/apply/578704) | Santa Ana California US | :spiral_calendar: ️2024-01-14 |
+|  :office:  CGI | [Lead Developer](https://www.opentoworkremote.com/apply/578714) | Canada CA | :spiral_calendar: ️2024-01-14 |
+|  :office:  RTX | [Systems Engineer](https://www.opentoworkremote.com/apply/578724) | United States US | :spiral_calendar: ️2024-01-14 |
+|  :office:  Cosm | [Systems Engineer](https://www.opentoworkremote.com/apply/578734) | Los Angeles California US | :spiral_calendar: ️2024-01-14 |
+|  :office:  Knewin | [Cloud Web Developer](https://www.opentoworkremote.com/apply/578744) | Remote US | :spiral_calendar: ️2024-01-14 |
+|  :office:  HR factory | [Media Buyer (Senior/Lead)](https://www.opentoworkremote.com/apply/575634) | Lithuania | :spiral_calendar: ️2024-01-14 |
 |  :office:  F5 | [Software Development Engineer - III](https://www.opentoworkremote.com/apply/574034) | Mexico | :spiral_calendar: ️2024-01-14 |
 |  :office:  F5 | [Sr. NOC Engineer](https://www.opentoworkremote.com/apply/574044) | Guadalajara, Mexico | :spiral_calendar: ️2024-01-14 |
 |  :office:  UpKeep | [Sr. Software Engineer - iOS](https://www.opentoworkremote.com/apply/574154) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-14 |
@@ -18,73 +197,152 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Agiloft | [Machine Learning Engineer II – Remote](https://www.opentoworkremote.com/apply/574174) | Poland | :spiral_calendar: ️2024-01-14 |
 |  :office:  Agiloft | [Machine Learning Engineer II – Remote](https://www.opentoworkremote.com/apply/574184) | Romania | :spiral_calendar: ️2024-01-14 |
 |  :office:  Agiloft | [Machine Learning Engineer II – Remote](https://www.opentoworkremote.com/apply/574194) | Ukraine | :spiral_calendar: ️2024-01-14 |
+|  :office:  AAFCPAs | [Audit Director - Methodology & Innovation](https://www.opentoworkremote.com/apply/575644) | USA | :spiral_calendar: ️2024-01-14 |
+|  :office:  execthread | [Chief Executive Officer (CEO)](https://www.opentoworkremote.com/apply/575654) | USA | :spiral_calendar: ️2024-01-14 |
+|  :office:  NeuroNation | [Backend Developer (PHP / MySQL)](https://www.opentoworkremote.com/apply/575664) | Europe | :spiral_calendar: ️2024-01-14 |
 |  :office:  Roo | [Software Engineer in Test (Remote)](https://www.opentoworkremote.com/apply/574204) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-14 |
+|  :office:  IOHK | [Senior Data Engineer - RealFi](https://www.opentoworkremote.com/apply/575674) | South Africa | :spiral_calendar: ️2024-01-14 |
 |  :office:  Quora | [Software Engineer Intern - Canada (Remote)](https://www.opentoworkremote.com/apply/574214) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-14 |
 |  :office:  Quora | [Machine Learning Engineer Intern - Canada (Remote)](https://www.opentoworkremote.com/apply/574224) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-14 |
 |  :office:  Voiceflow | [Senior Software Engineer](https://www.opentoworkremote.com/apply/574244) | Toronto, Ontario | :spiral_calendar: ️2024-01-14 |
+|  :office:  AdHoc Studio | [Junior Writer](https://www.opentoworkremote.com/apply/575684) | USA | :spiral_calendar: ️2024-01-14 |
+|  :office:  Perceptyx | [Senior Product Data Analyst](https://www.opentoworkremote.com/apply/575694) | USA | :spiral_calendar: ️2024-01-14 |
+|  :office:  Outside | [Director of Business Development](https://www.opentoworkremote.com/apply/575704) | USA | :spiral_calendar: ️2024-01-14 |
+|  :office:  Support Shepherd | [Business Development Representative (LatAm)](https://www.opentoworkremote.com/apply/576564) | Remote, Colombia | :spiral_calendar: ️2024-01-14 |
 |  :office:  Anderson Optimization | [Software Quality Assurance (QA) Engineer - Remote](https://www.opentoworkremote.com/apply/574394) | Remote, United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  Anderson Optimization | [Front End Software Developer - Remote](https://www.opentoworkremote.com/apply/574404) | Remote, United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  PetroApp | [Zoho Engineer](https://www.opentoworkremote.com/apply/574414) | Remote, Egypt | :spiral_calendar: ️2024-01-14 |
 |  :office:  strongDM | [Enterprise Account Executive- New England](https://www.opentoworkremote.com/apply/574724) | United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  Ylopo | [Client Success Manager](https://www.opentoworkremote.com/apply/574984) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-14 |
+|  :office:  Nextech | [Product Marketing Manager](https://www.opentoworkremote.com/apply/577544) | United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  Tempus | [Territory Sales Executive - Chicago West](https://www.opentoworkremote.com/apply/574734) | Israel | :spiral_calendar: ️2024-01-14 |
+|  :office:  GoDaddy | [Senior ML Engineer](https://www.opentoworkremote.com/apply/577554) | India | :spiral_calendar: ️2024-01-14 |
+|  :office:  ReCharge | [Marketing Operations Manager](https://www.opentoworkremote.com/apply/578324) | United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  runZero | [Enterprise Account Executive, Midwest](https://www.opentoworkremote.com/apply/574744) | United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  PixelPass | [Senior Digital Designer](https://www.opentoworkremote.com/apply/575514) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-14 |
+|  :office:  Trendyol | [Technical Program Manager (Infra.)](https://www.opentoworkremote.com/apply/577564) | Turkey | :spiral_calendar: ️2024-01-14 |
 |  :office:  Figma | [Director, Design Operations](https://www.opentoworkremote.com/apply/574494) | United States | :spiral_calendar: ️2024-01-14 |
+|  :office:  SeatGeek | [(Senior) Business Systems Analyst - Atlassian/Slack](https://www.opentoworkremote.com/apply/578334) | United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  Swissborg | [Senior Front End Engineer](https://www.opentoworkremote.com/apply/574754) | Switzerland | :spiral_calendar: ️2024-01-14 |
+|  :office:  Glassnode | [Paralegal. Part-time & Remote (m/f/d)](https://www.opentoworkremote.com/apply/577574) | Germany | :spiral_calendar: ️2024-01-14 |
 |  :office:  Samsara | [Majors Account Executive - St Louis](https://www.opentoworkremote.com/apply/574504) | United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  Versapay | [Manager, Financial Institution Partnerships](https://www.opentoworkremote.com/apply/574764) | United States | :spiral_calendar: ️2024-01-14 |
+|  :office:  Printify | [Senior Finance Analyst - Profitability (Riga, Tallinn or remote within EMEA)](https://www.opentoworkremote.com/apply/577584) | Latvia | :spiral_calendar: ️2024-01-14 |
 |  :office:  Gusto | [Head of Community and Events](https://www.opentoworkremote.com/apply/574514) | Canada | :spiral_calendar: ️2024-01-14 |
 |  :office:  Chainlink | [Events Marketing Manager, North America](https://www.opentoworkremote.com/apply/574774) | Canada | :spiral_calendar: ️2024-01-14 |
+|  :office:  Matillion | [Senior Staff Site Reliability Engineer](https://www.opentoworkremote.com/apply/577594) | United Kingdom | :spiral_calendar: ️2024-01-14 |
 |  :office:  Supportninja | [Pricing Data Analyst](https://www.opentoworkremote.com/apply/574524) | Philippines | :spiral_calendar: ️2024-01-14 |
+|  :office:  Emma | [Offline Business Development Manager Taiwan](https://www.opentoworkremote.com/apply/578364) | Taiwan | :spiral_calendar: ️2024-01-14 |
 |  :office:  Aclaimant | [Sales Account Executive](https://www.opentoworkremote.com/apply/574784) | United States | :spiral_calendar: ️2024-01-14 |
+|  :office:  Nuvalence | [Senior Cloud Engineer (Azure)](https://www.opentoworkremote.com/apply/577604) | United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  Blacksky | [Director, of Business Development, Europe](https://www.opentoworkremote.com/apply/574534) | Europe | :spiral_calendar: ️2024-01-14 |
+|  :office:  UpGuard | [Talent Acquisition Partner - India & EMEA](https://www.opentoworkremote.com/apply/578374) | India | :spiral_calendar: ️2024-01-14 |
 |  :office:  Navisite | [Senior Salesforce Consultant](https://www.opentoworkremote.com/apply/574794) | United States | :spiral_calendar: ️2024-01-14 |
+|  :office:  PatientIQ | [Senior Product Manager](https://www.opentoworkremote.com/apply/577614) | USA | :spiral_calendar: ️2024-01-14 |
 |  :office:  Pacaso | [Central Services Agent, Overnight Support, Contract](https://www.opentoworkremote.com/apply/574544) | United States | :spiral_calendar: ️2024-01-14 |
+|  :office:  Clubhouse | [📈 Data Scientist, Product](https://www.opentoworkremote.com/apply/578384) | United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  ClickUp | [Senior Backend Engineer, User Platform (Poland)](https://www.opentoworkremote.com/apply/574804) | Poland | :spiral_calendar: ️2024-01-14 |
+|  :office:  Ronen Lev | [Interior Designer ](https://www.opentoworkremote.com/apply/578644) | New York, NY | :spiral_calendar: ️2024-01-14 |
+|  :office:  Webflow | [Director – Growth Marketing](https://www.opentoworkremote.com/apply/577624) | USA | :spiral_calendar: ️2024-01-14 |
 |  :office:  Pigment | [Senior Site Reliability Engineer](https://www.opentoworkremote.com/apply/574554) | France | :spiral_calendar: ️2024-01-14 |
+|  :office:  Vidyard | [Staff Software Developer](https://www.opentoworkremote.com/apply/578394) | Canada | :spiral_calendar: ️2024-01-14 |
 |  :office:  Anchorage Digital | [Member of Technical Staff, PlatSec - Security Engineering](https://www.opentoworkremote.com/apply/574814) | United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  Solvhealth | [Senior RevOps Analyst](https://www.opentoworkremote.com/apply/574564) | United States | :spiral_calendar: ️2024-01-14 |
+|  :office:  Forethought | [Marketing Programs Coordinator](https://www.opentoworkremote.com/apply/578404) | United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  Printify | [Community Project Manager (Marketing focus)](https://www.opentoworkremote.com/apply/574824) | Latvia | :spiral_calendar: ️2024-01-14 |
 |  :office:  Yottaa | [Partner Manager](https://www.opentoworkremote.com/apply/574574) | United States | :spiral_calendar: ️2024-01-14 |
+|  :office:  tentree | [tentree Independent Sales Representative (California, Nevada, Arizona)](https://www.opentoworkremote.com/apply/578414) | United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  Storable | [Client Success Manager - Tenant Insurance](https://www.opentoworkremote.com/apply/574584) | United States | :spiral_calendar: ️2024-01-14 |
+|  :office:  TeamSnap | [Onboarding Specialist](https://www.opentoworkremote.com/apply/578424) | United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  Truveris | [HR Manager (Remote)](https://www.opentoworkremote.com/apply/574844) | United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  Kinaxis | [Co-Op/Intern Developer, Clients, Front End Technologies](https://www.opentoworkremote.com/apply/574594) | Canada | :spiral_calendar: ️2024-01-14 |
+|  :office:  Acorns | [Sr. Backend Engineer](https://www.opentoworkremote.com/apply/578434) | United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  BillionToOne | [Senior Account Executive, Kansas](https://www.opentoworkremote.com/apply/574854) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-14 |
 |  :office:  Voltus | [Dispatch Operations Intern](https://www.opentoworkremote.com/apply/574604) | United States | :spiral_calendar: ️2024-01-14 |
+|  :office:  ília | [SR Desenvolvedor Front-end](https://www.opentoworkremote.com/apply/578444) | Brazil | :spiral_calendar: ️2024-01-14 |
 |  :office:  MuckRack | [Senior DevOps Engineer](https://www.opentoworkremote.com/apply/574864) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-14 |
+|  :office:  Zip | [Technical Integrations Consultant](https://www.opentoworkremote.com/apply/578194) | United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  Shakepay | [Controller](https://www.opentoworkremote.com/apply/574614) | Canada | :spiral_calendar: ️2024-01-14 |
+|  :office:  birdie | [Technical Architect](https://www.opentoworkremote.com/apply/578454) | United Kingdom | :spiral_calendar: ️2024-01-14 |
 |  :office:  Smithmicro | [Project Management Intern 2024](https://www.opentoworkremote.com/apply/574874) | United States | :spiral_calendar: ️2024-01-14 |
+|  :office:  AppHub | [Product Manager](https://www.opentoworkremote.com/apply/578204) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-14 |
 |  :office:  Koombea | [Senior Python Developer](https://www.opentoworkremote.com/apply/574624) | Brazil | :spiral_calendar: ️2024-01-14 |
+|  :office:  YipitData | [Research Associate](https://www.opentoworkremote.com/apply/578464) | United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  Bazaarvoice | [Group Product Manager](https://www.opentoworkremote.com/apply/574884) | Ireland | :spiral_calendar: ️2024-01-14 |
+|  :office:  Roo | [Software Engineer in Test](https://www.opentoworkremote.com/apply/578214) | United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  TeamSnap | [Business Development Representative](https://www.opentoworkremote.com/apply/574634) | United States | :spiral_calendar: ️2024-01-14 |
+|  :office:  Float | [Senior Growth Marketer](https://www.opentoworkremote.com/apply/578474) | United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  Controlup | [Solutions Marketing Manager](https://www.opentoworkremote.com/apply/574894) | United States | :spiral_calendar: ️2024-01-14 |
+|  :office:  Kong | [Senior Solutions Engineer, Australia](https://www.opentoworkremote.com/apply/578224) | Australia | :spiral_calendar: ️2024-01-14 |
 |  :office:  Fathom | [Talent Acquisition Specialist](https://www.opentoworkremote.com/apply/574644) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-14 |
+|  :office:  Yuno | [Jr Business Development](https://www.opentoworkremote.com/apply/578484) | Colombia | :spiral_calendar: ️2024-01-14 |
+|  :office:  FLASH | [Senior Field Project Manager](https://www.opentoworkremote.com/apply/578234) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-14 |
 |  :office:  Crossfit | [Affiliate Operations Manager](https://www.opentoworkremote.com/apply/574654) | United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  DataCamp | [Intern - JavaScript](https://www.opentoworkremote.com/apply/574914) | Belgium | :spiral_calendar: ️2024-01-14 |
+|  :office:  Grow Therapy | [Engineering Manager - Platform](https://www.opentoworkremote.com/apply/578244) | United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  Zenogroup | [SVP, Strategy, Health + Wellness](https://www.opentoworkremote.com/apply/574664) | United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  Kyruus | [Business Development Representative](https://www.opentoworkremote.com/apply/574924) | United States | :spiral_calendar: ️2024-01-14 |
+|  :office:  Centroid Solutions | [Fintech UX/UI designer](https://www.opentoworkremote.com/apply/578764) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-14 |
+|  :office:  Ophelia | [Billing Manager](https://www.opentoworkremote.com/apply/578254) | Liechtenstein | :spiral_calendar: ️2024-01-14 |
 |  :office:  Janeapp | [Director of Product Management - Clinical](https://www.opentoworkremote.com/apply/574674) | Canada | :spiral_calendar: ️2024-01-14 |
 |  :office:  GLIDE | [Executive Assistant](https://www.opentoworkremote.com/apply/574934) | United States | :spiral_calendar: ️2024-01-14 |
+|  :office:  Free Chapel | [Graphic Designer](https://www.opentoworkremote.com/apply/578774) | Gainesville, GA | :spiral_calendar: ️2024-01-14 |
+|  :office:  SeatGeek | [Client Services Specialist - Sport](https://www.opentoworkremote.com/apply/578264) | United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  Atmosera | [Principal Azure DevOps Consultant](https://www.opentoworkremote.com/apply/574684) | United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  Knix | [Intermediate Graphic Designer](https://www.opentoworkremote.com/apply/574944) | Canada | :spiral_calendar: ️2024-01-14 |
+|  :office:  MetLife | [Liady Martinez- Consultor/a Comercial en Protección -  Cali](https://www.opentoworkremote.com/apply/577504) | Colombia | :spiral_calendar: ️2024-01-14 |
+|  :office:  Teleport | [Technical Account Manager](https://www.opentoworkremote.com/apply/578274) | United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  CloudWalk | [Senior Front-End Developer](https://www.opentoworkremote.com/apply/574694) | Brazil | :spiral_calendar: ️2024-01-14 |
 |  :office:  SurveyMonkey | [Technical Intern](https://www.opentoworkremote.com/apply/574954) | Canada | :spiral_calendar: ️2024-01-14 |
+|  :office:  PROSPER | [Senior Credit Risk Analyst](https://www.opentoworkremote.com/apply/577514) | United States | :spiral_calendar: ️2024-01-14 |
+|  :office:  Campus | [Instructor](https://www.opentoworkremote.com/apply/578284) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-14 |
 |  :office:  SugarCRM | [Director, Product Management (Sugar Market)](https://www.opentoworkremote.com/apply/574704) | United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  Storable | [Software Engineer II - Marine Division](https://www.opentoworkremote.com/apply/574964) | United States | :spiral_calendar: ️2024-01-14 |
+|  :office:  Carbonhealth | [People Operations Manager](https://www.opentoworkremote.com/apply/577524) | Colombia | :spiral_calendar: ️2024-01-14 |
+|  :office:  Kong | [Senior Software Engineer, Microservices (Typescript)](https://www.opentoworkremote.com/apply/578294) | Canada | :spiral_calendar: ️2024-01-14 |
 |  :office:  Cordial81 | [Manager, Email Production](https://www.opentoworkremote.com/apply/574974) | United States | :spiral_calendar: ️2024-01-14 |
+|  :office:  valence | [Product Manager](https://www.opentoworkremote.com/apply/577534) | United States | :spiral_calendar: ️2024-01-14 |
 |  :office:  Dathena Science | [Software Engineer - Detection](https://www.opentoworkremote.com/apply/574054) | Argentina | :spiral_calendar: ️2024-01-13 |
 |  :office:  Dathena Science | [Staff Software Engineer](https://www.opentoworkremote.com/apply/574064) | Argentina | :spiral_calendar: ️2024-01-13 |
 |  :office:  Dathena Science | [Software engineer III](https://www.opentoworkremote.com/apply/574074) | Argentina | :spiral_calendar: ️2024-01-13 |
 |  :office:  Dathena Science | [Frontend/UI Engineer III](https://www.opentoworkremote.com/apply/574084) | Argentina | :spiral_calendar: ️2024-01-13 |
 |  :office:  Dathena Science | [Principal Software engineer](https://www.opentoworkremote.com/apply/574094) | Argentina | :spiral_calendar: ️2024-01-13 |
 |  :office:  Dathena Science | [Senior Software Engineer](https://www.opentoworkremote.com/apply/574104) | Argentina | :spiral_calendar: ️2024-01-13 |
+|  :office:  Eyeo | [(Senior) Director Engineering - Quality Filtering ](https://www.opentoworkremote.com/apply/575714) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-13 |
+|  :office:  ISMIRA RECRUITMENT AGENCY | [VIKING OCEAN - HUMAN RESOURCES MANAGER](https://www.opentoworkremote.com/apply/575724) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-13 |
+|  :office:  CloudLinux | [Security Engineer](https://www.opentoworkremote.com/apply/575734) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-13 |
+|  :office:  PerformYard | [Product UI/UX Designer](https://www.opentoworkremote.com/apply/575744) | USA | :spiral_calendar: ️2024-01-13 |
+|  :office:  Spectral | [Head of Growth & Community](https://www.opentoworkremote.com/apply/575754) | USA | :spiral_calendar: ️2024-01-13 |
+|  :office:  Cksource | [Software Engineer (mid/senior)](https://www.opentoworkremote.com/apply/575764) | Poland | :spiral_calendar: ️2024-01-13 |
+|  :office:  Lokalise | [Staff Data Engineer](https://www.opentoworkremote.com/apply/576464) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-13 |
+|  :office:  Pixelmechanics | [Sales Back Office Specialist](https://www.opentoworkremote.com/apply/575774) | Germany | :spiral_calendar: ️2024-01-13 |
+|  :office:  Creatunity LLC | [Senior Media Buyer](https://www.opentoworkremote.com/apply/575784) | USA | :spiral_calendar: ️2024-01-13 |
+|  :office:  Siena | [Technical Support Lead](https://www.opentoworkremote.com/apply/575794) | UK | :spiral_calendar: ️2024-01-13 |
+|  :office:  Replo | [Weekend Customer Support Specialist](https://www.opentoworkremote.com/apply/575804) | LATAM, APAC | :spiral_calendar: ️2024-01-13 |
+|  :office:  NeuroNation | [.NET MAUI / Xamarin / App Developer / C#](https://www.opentoworkremote.com/apply/575814) | Europe | :spiral_calendar: ️2024-01-13 |
 |  :office:  Apollo | [Staff Software Engineer, Rust (UK)](https://www.opentoworkremote.com/apply/574254) | UK | :spiral_calendar: ️2024-01-13 |
+|  :office:  Rightway | [Sr Front End Developer](https://www.opentoworkremote.com/apply/576474) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-13 |
+|  :office:  Coinlist | [Customer Support Analyst APAC Contract](https://www.opentoworkremote.com/apply/575534) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-13 |
+|  :office:  Flock Safety | [Software Engineer in Test](https://www.opentoworkremote.com/apply/576484) | US | :spiral_calendar: ️2024-01-13 |
+|  :office:  Fnality | [Head of Technology Risk & Head of Operational Risk](https://www.opentoworkremote.com/apply/575544) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-13 |
+|  :office:  Flashbots | [General Counsel](https://www.opentoworkremote.com/apply/575554) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-13 |
+|  :office:  Blowfish | [Annotation Specialist](https://www.opentoworkremote.com/apply/575564) | Remote - Mexico | :spiral_calendar: ️2024-01-13 |
+|  :office:  Nansen | [Group Product Manager](https://www.opentoworkremote.com/apply/575574) | EMEA/APAC, Remote | :spiral_calendar: ️2024-01-13 |
+|  :office:  NOBI | [Private Client Advisor](https://www.opentoworkremote.com/apply/575584) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-13 |
+|  :office:  Mimica Automation | [Senior Enterprise Account Executive](https://www.opentoworkremote.com/apply/575824) | USA | :spiral_calendar: ️2024-01-13 |
+|  :office:  Grand Welcome | [Sales Development Representative](https://www.opentoworkremote.com/apply/575834) | USA | :spiral_calendar: ️2024-01-13 |
+|  :office:  Photobooth Supply Co | [Head of Account Management](https://www.opentoworkremote.com/apply/575844) | USA | :spiral_calendar: ️2024-01-13 |
+|  :office:  The Marketing Practice | [Associate Creative Technologist](https://www.opentoworkremote.com/apply/575854) | USA | :spiral_calendar: ️2024-01-13 |
+|  :office:  Webmechanix | [Head of Performance Creative](https://www.opentoworkremote.com/apply/575864) | USA | :spiral_calendar: ️2024-01-13 |
+|  :office:  TMG | [Full Stack Developer with Shopify](https://www.opentoworkremote.com/apply/575874) | Uruguay | :spiral_calendar: ️2024-01-13 |
+|  :office:  Polychain | [Backend Engineer Accounting & Reporting Systems](https://www.opentoworkremote.com/apply/575594) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-13 |
+|  :office:  Ethena | [Business Development Manager Asia](https://www.opentoworkremote.com/apply/575604) | Globally Remote | :spiral_calendar: ️2024-01-13 |
 |  :office:  Allegion | [Senior Software Development Engineer in Test (SDET)](https://www.opentoworkremote.com/apply/574264) | US | :spiral_calendar: ️2024-01-13 |
 |  :office:  Allegion | [Lead Mechanical Engineer I](https://www.opentoworkremote.com/apply/574114) | Mexico | :spiral_calendar: ️2024-01-13 |
 |  :office:  Allegion | [Senior Software Engineer, Mobile](https://www.opentoworkremote.com/apply/574274) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-13 |
 |  :office:  Dubset Media Holdings, Inc. | [Senior Site Reliability Engineer (Mexico)](https://www.opentoworkremote.com/apply/574124) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-13 |
 |  :office:  Dubset Media Holdings, Inc. | [Senior Site Reliability Engineer (Canada)](https://www.opentoworkremote.com/apply/574284) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-13 |
+|  :office:  AdHoc Studio | [Writer](https://www.opentoworkremote.com/apply/575884) | USA | :spiral_calendar: ️2024-01-13 |
 |  :office:  Pulumi | [Cloud Support Engineer (UK)](https://www.opentoworkremote.com/apply/574294) | UK | :spiral_calendar: ️2024-01-13 |
 |  :office:  Pulumi | [Cloud Support Engineer (AU)](https://www.opentoworkremote.com/apply/574304) | Australia | :spiral_calendar: ️2024-01-13 |
 |  :office:  Pulumi | [Cloud Support Engineer](https://www.opentoworkremote.com/apply/574314) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-13 |
@@ -92,7 +350,9 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Business Wire | [Software Development Engineer in Test](https://www.opentoworkremote.com/apply/574334) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-13 |
 |  :office:  WalletConnect | [Principal Software Engineer (Rust)](https://www.opentoworkremote.com/apply/574344) | UK | :spiral_calendar: ️2024-01-13 |
 |  :office:  WalletConnect | [Lead Rust Engineer](https://www.opentoworkremote.com/apply/574354) | US | :spiral_calendar: ️2024-01-13 |
+|  :office:  Businessolver | [Java Engineer I (Work Remotely Anywhere in the United States)](https://www.opentoworkremote.com/apply/576494) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-13 |
 |  :office:  Brooks Running | [Senior Cloud Engineer](https://www.opentoworkremote.com/apply/574364) | US | :spiral_calendar: ️2024-01-13 |
+|  :office:  IXL Learning | [Senior Software Engineer, Curiosity Media](https://www.opentoworkremote.com/apply/576504) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-13 |
 |  :office:  Network Coverage | [Information Security Analyst- Compliance](https://www.opentoworkremote.com/apply/573534) | USA | :spiral_calendar: ️2024-01-13 |
 |  :office:  TRAACKR | [Senior Data Analyst](https://www.opentoworkremote.com/apply/573544) | USA | :spiral_calendar: ️2024-01-13 |
 |  :office:  Agile Solutions GB | [Lead Consultant - Agile Scrum Master](https://www.opentoworkremote.com/apply/573554) | UK | :spiral_calendar: ️2024-01-13 |
@@ -172,9 +432,11 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  High Alpha Innovation | [Content Marketing Specialist](https://www.opentoworkremote.com/apply/574444) | Remote, United States | :spiral_calendar: ️2024-01-13 |
 |  :office:  TPAPT | [AP Physics Tutor (Remote) - 45/hr-55/hr](https://www.opentoworkremote.com/apply/574454) | Remote, United States | :spiral_calendar: ️2024-01-13 |
 |  :office:  ClipboardHealth | [New Verticals Founder](https://www.opentoworkremote.com/apply/571904) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-13 |
+|  :office:  Infinite Reality | [QA Engineer](https://www.opentoworkremote.com/apply/578564) | United States | :spiral_calendar: ️2024-01-13 |
 |  :office:  Lucca | [Product Marketing Manager Confirmed - Poplee Entretiens](https://www.opentoworkremote.com/apply/571654) | France | :spiral_calendar: ️2024-01-13 |
 |  :office:  Zeller | [Mid Backend Software Engineer - Typescript + Serverless](https://www.opentoworkremote.com/apply/572424) | India | :spiral_calendar: ️2024-01-13 |
 |  :office:  SiteGround | [Customer Experience Specialist with English and Italian](https://www.opentoworkremote.com/apply/571914) | Bulgaria | :spiral_calendar: ️2024-01-13 |
+|  :office:  Gametime | [Engineering Manager](https://www.opentoworkremote.com/apply/578574) | United States | :spiral_calendar: ️2024-01-13 |
 |  :office:  Orchard | [Growth Marketing Manager -  Digital](https://www.opentoworkremote.com/apply/571664) | United States | :spiral_calendar: ️2024-01-13 |
 |  :office:  Infinite Reality | [Principal Engineer](https://www.opentoworkremote.com/apply/572434) | United States | :spiral_calendar: ️2024-01-13 |
 |  :office:  Veepee | [Back-end Developer (.NET & Apex)](https://www.opentoworkremote.com/apply/574994) | France | :spiral_calendar: ️2024-01-13 |
@@ -183,22 +445,27 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  LawnStarter | [Part Time Weekend Customer Support Representative](https://www.opentoworkremote.com/apply/572444) | Panama | :spiral_calendar: ️2024-01-13 |
 |  :office:  Controlup | [VP Product](https://www.opentoworkremote.com/apply/575004) | Israel | :spiral_calendar: ️2024-01-13 |
 |  :office:  NIUM | [Financial Crime Analyst](https://www.opentoworkremote.com/apply/571934) | Lithuania | :spiral_calendar: ️2024-01-13 |
+|  :office:  Marqeta | [Total Rewards Analyst](https://www.opentoworkremote.com/apply/578594) | United States | :spiral_calendar: ️2024-01-13 |
 |  :office:  Lucca | [Consultant(e) & Chef(fe) de projet Customer Success - Nantes](https://www.opentoworkremote.com/apply/571684) | France | :spiral_calendar: ️2024-01-13 |
 |  :office:  NexusGPT | [Explainer Video Animator for SaaS](https://www.opentoworkremote.com/apply/575524) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-13 |
 |  :office:  Smartcar | [Account Manager](https://www.opentoworkremote.com/apply/572454) | United States | :spiral_calendar: ️2024-01-13 |
 |  :office:  Grammarly | [Customer Support Specialist](https://www.opentoworkremote.com/apply/575014) | Namibia | :spiral_calendar: ️2024-01-13 |
 |  :office:  RevenueCat | [Senior Mobile SDK Engineer, CoreSDK](https://www.opentoworkremote.com/apply/571944) | United States | :spiral_calendar: ️2024-01-13 |
+|  :office:  HICX | [Functional Consultant](https://www.opentoworkremote.com/apply/578604) | United States | :spiral_calendar: ️2024-01-13 |
 |  :office:  Deputy | [Chief of Staff, Customer Team](https://www.opentoworkremote.com/apply/572464) | United States | :spiral_calendar: ️2024-01-13 |
 |  :office:  GoDaddy | [Principal Security Engineer](https://www.opentoworkremote.com/apply/575024) | India | :spiral_calendar: ️2024-01-13 |
 |  :office:  D-edge | [Technical Support Specialist - Hospitality (Singapore/Kuala Lumpur or Jakarta)](https://www.opentoworkremote.com/apply/571954) | Singapore | :spiral_calendar: ️2024-01-13 |
+|  :office:  Matterport | [Senior Information Security and Compliance Engineer](https://www.opentoworkremote.com/apply/578614) | United States | :spiral_calendar: ️2024-01-13 |
 |  :office:  Bazaarvoice | [Staff Data Engineer, Content Intelligence](https://www.opentoworkremote.com/apply/571704) | India | :spiral_calendar: ️2024-01-13 |
 |  :office:  LawnStarter | [Part Time Customer Support Representative](https://www.opentoworkremote.com/apply/572474) | Morocco | :spiral_calendar: ️2024-01-13 |
 |  :office:  Wheelhousedmg | [Digital Advertising Analyst](https://www.opentoworkremote.com/apply/575034) | United States | :spiral_calendar: ️2024-01-13 |
 |  :office:  Pipedrive | [Technical SEO Analyst](https://www.opentoworkremote.com/apply/571964) | Portugal | :spiral_calendar: ️2024-01-13 |
+|  :office:  Speckle | [Remote Executive Assistant - PH](https://www.opentoworkremote.com/apply/578624) | Philippines | :spiral_calendar: ️2024-01-13 |
 |  :office:  Doctolib | [Senior Recruiter (x/f/m)](https://www.opentoworkremote.com/apply/571714) | Germany | :spiral_calendar: ️2024-01-13 |
 |  :office:  CaptivateIQ | [Senior Fullstack Software Engineer - Modeling](https://www.opentoworkremote.com/apply/572484) | Canada | :spiral_calendar: ️2024-01-13 |
 |  :office:  CommonLit | [Senior Full-Stack Software Engineer (Rails, Typescript)](https://www.opentoworkremote.com/apply/575044) | United States | :spiral_calendar: ️2024-01-13 |
 |  :office:  Stealth | [Head of Business Operations](https://www.opentoworkremote.com/apply/571974) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-13 |
+|  :office:  Speckle | [Freelance Creative Recruiter](https://www.opentoworkremote.com/apply/578634) | Argentina | :spiral_calendar: ️2024-01-13 |
 |  :office:  Grammarly | [Software Engineer, Back-End (Growth Monetization)](https://www.opentoworkremote.com/apply/571724) | Germany | :spiral_calendar: ️2024-01-13 |
 |  :office:  bloXroute Labs | [Software Engineer](https://www.opentoworkremote.com/apply/572494) | United States | :spiral_calendar: ️2024-01-13 |
 |  :office:  MaintainX | [Spécialiste du marketing événementiel](https://www.opentoworkremote.com/apply/575054) | Canada | :spiral_calendar: ️2024-01-13 |
@@ -238,15 +505,19 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Millennium Space Systems | [Indirect Contracts Manager](https://www.opentoworkremote.com/apply/571574) | El Segundo, CA, United States | :spiral_calendar: ️2024-01-13 |
 |  :office:  Smarsh | [Sr. Talent Development Program Manager](https://www.opentoworkremote.com/apply/571834) | United States | :spiral_calendar: ️2024-01-13 |
 |  :office:  Reward Point | [Fintech UX/UI Designer Reward Point](https://www.opentoworkremote.com/apply/573374) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-13 |
+|  :office:  Marqeta | [Staff Security Engineer](https://www.opentoworkremote.com/apply/578494) | United States | :spiral_calendar: ️2024-01-13 |
 |  :office:  MDA | [Int Engineer - Systems Security](https://www.opentoworkremote.com/apply/571584) | Richmond, Canada | :spiral_calendar: ️2024-01-13 |
 |  :office:  birdie | [Solutions Engineer](https://www.opentoworkremote.com/apply/572354) | United Kingdom | :spiral_calendar: ️2024-01-13 |
 |  :office:  HumanSecurity | [Public Sector Account Executive](https://www.opentoworkremote.com/apply/571844) | United States | :spiral_calendar: ️2024-01-13 |
+|  :office:  Nuna | [Lead Business Analyst](https://www.opentoworkremote.com/apply/578504) | United States | :spiral_calendar: ️2024-01-13 |
 |  :office:  ICEYE | [Supply Chain Specialist](https://www.opentoworkremote.com/apply/571594) | Espoo, Uusimaa, Finland | :spiral_calendar: ️2024-01-13 |
 |  :office:  Credible | [Senior Software Engineer - AI](https://www.opentoworkremote.com/apply/572364) | United States | :spiral_calendar: ️2024-01-13 |
 |  :office:  Figment | [Customer Success Manager, Japan](https://www.opentoworkremote.com/apply/571854) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-13 |
+|  :office:  SmartAsset | [Sales Manager](https://www.opentoworkremote.com/apply/578514) | United States | :spiral_calendar: ️2024-01-13 |
 |  :office:  Sierra Space | [Flight Dynamics Simulation Software Engineer II](https://www.opentoworkremote.com/apply/571604) | Broomfield, CO, United States | :spiral_calendar: ️2024-01-13 |
 |  :office:  birdie | [Enterprise Sales Executive](https://www.opentoworkremote.com/apply/572374) | United Kingdom | :spiral_calendar: ️2024-01-13 |
 |  :office:  Boxinc | [Product Manager, AI/ML](https://www.opentoworkremote.com/apply/571864) | Poland | :spiral_calendar: ️2024-01-13 |
+|  :office:  Infinite Reality | [Research Assistant](https://www.opentoworkremote.com/apply/578524) | United States | :spiral_calendar: ️2024-01-13 |
 |  :office:  ClipboardHealth | [Recruiting Coordinator (Middle East)](https://www.opentoworkremote.com/apply/571614) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-13 |
 |  :office:  LawnStarter | [Part Time Weekend Customer Support Representative](https://www.opentoworkremote.com/apply/572384) | Costa Rica | :spiral_calendar: ️2024-01-13 |
 |  :office:  Agicap | [Customer Tech & Operations Manager, Key Accounts (m/w/d)](https://www.opentoworkremote.com/apply/571874) | Germany | :spiral_calendar: ️2024-01-13 |
@@ -254,6 +525,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Vevo  | [Music & Talent Coordinator](https://www.opentoworkremote.com/apply/571884) | United Kingdom | :spiral_calendar: ️2024-01-13 |
 |  :office:  Sprinto | [Customer Success Manager - Mid Market](https://www.opentoworkremote.com/apply/572404) | India | :spiral_calendar: ️2024-01-13 |
 |  :office:  Commercetools | [VP, FP&A (m/f/x)](https://www.opentoworkremote.com/apply/571894) | Germany | :spiral_calendar: ️2024-01-13 |
+|  :office:  Axios | [Editor and Producer, Axios Events](https://www.opentoworkremote.com/apply/578554) | United States | :spiral_calendar: ️2024-01-13 |
 |  :office:  Commercetools | [VP, FP&A](https://www.opentoworkremote.com/apply/571644) | United States | :spiral_calendar: ️2024-01-13 |
 |  :office:  Acorns | [Paid Acquisition Manager II](https://www.opentoworkremote.com/apply/572414) | United States | :spiral_calendar: ️2024-01-13 |
 |  :office:  Teachable | [Sr. Software Engineer I - Student Engagement](https://www.opentoworkremote.com/apply/570794) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-12 |
@@ -385,6 +657,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  TetraScience | [Senior Manager, Technical Operations](https://www.opentoworkremote.com/apply/567864) | Remote, United States | :spiral_calendar: ️2024-01-12 |
 |  :office:  Aviso Wealth | [New Accounts Administrator, Temporary](https://www.opentoworkremote.com/apply/571194) | Remote, Canada | :spiral_calendar: ️2024-01-12 |
 |  :office:  ARK Group | [Business Development Manager](https://www.opentoworkremote.com/apply/567614) | Remote, United Kingdom | :spiral_calendar: ️2024-01-12 |
+|  :office:  Support Shepherd | [16718439976 - (LatAm) Marketing Specialist](https://www.opentoworkremote.com/apply/576574) | Remote, Colombia | :spiral_calendar: ️2024-01-12 |
 |  :office:  Path-Arc | [Customer Service ( Remote work)](https://www.opentoworkremote.com/apply/567874) | Remote, United States | :spiral_calendar: ️2024-01-12 |
 |  :office:  EverService | [Senior Accountant](https://www.opentoworkremote.com/apply/571204) | Remote, United States | :spiral_calendar: ️2024-01-12 |
 |  :office:  Hustler Marketing | [Copywriter - eCommerce Marketing Agency](https://www.opentoworkremote.com/apply/567624) | Remote, South Africa | :spiral_calendar: ️2024-01-12 |
@@ -465,6 +738,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Scale AI | [Technical Sourcer, Contract](https://www.opentoworkremote.com/apply/568084) | Canada | :spiral_calendar: ️2024-01-12 |
 |  :office:  Elastic | [Cloud - Fullstack Engineer](https://www.opentoworkremote.com/apply/569364) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-12 |
 |  :office:  Red Bull | [Red Bull Student Marketeer - Algonquin College](https://www.opentoworkremote.com/apply/573204) | Canada | :spiral_calendar: ️2024-01-12 |
+|  :office:  Virtualis | [Sales Execuitve](https://www.opentoworkremote.com/apply/577044) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-12 |
 |  :office:  Roche | [P2P Analyst](https://www.opentoworkremote.com/apply/568854) | Hungary | :spiral_calendar: ️2024-01-12 |
 |  :office:  Marqeta | [Revenue Accounting Senior Manager](https://www.opentoworkremote.com/apply/572694) | United States | :spiral_calendar: ️2024-01-12 |
 |  :office:  Adept | [Software Engineer, Product](https://www.opentoworkremote.com/apply/568344) | Canada | :spiral_calendar: ️2024-01-12 |
@@ -484,6 +758,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Labcorp | [Regional Study Coordinator](https://www.opentoworkremote.com/apply/573224) | Belgium | :spiral_calendar: ️2024-01-12 |
 |  :office:  Cofense | [Technical Support Engineer, LMS](https://www.opentoworkremote.com/apply/568874) | United States | :spiral_calendar: ️2024-01-12 |
 |  :office:  RStudio | [Customer Success Manager, Public Sector](https://www.opentoworkremote.com/apply/572714) | United States | :spiral_calendar: ️2024-01-12 |
+|  :office:  LeadSimple, Inc. | [VP of Marketing](https://www.opentoworkremote.com/apply/576554) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-12 |
 |  :office:  Caseware | [Senior Pricing and Revenue Analyst](https://www.opentoworkremote.com/apply/568364) | Canada | :spiral_calendar: ️2024-01-12 |
 |  :office:  AppLovin | [Account Review Specialist (Contract)](https://www.opentoworkremote.com/apply/569644) | United States | :spiral_calendar: ️2024-01-12 |
 |  :office:  Air Apps | [Senior iOS Engineer](https://www.opentoworkremote.com/apply/569134) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-12 |
@@ -573,6 +848,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Sleeper | [Technical Recruiter Contractor](https://www.opentoworkremote.com/apply/573074) | United States | :spiral_calendar: ️2024-01-12 |
 |  :office:  Copia | [Director, Product Marketing](https://www.opentoworkremote.com/apply/568214) | United States | :spiral_calendar: ️2024-01-12 |
 |  :office:  Pine Gate Renewables | [VP of Transmission ](https://www.opentoworkremote.com/apply/572054) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-12 |
+|  :office:  Color | [Content Manager, Enrollment](https://www.opentoworkremote.com/apply/575894) | USA | :spiral_calendar: ️2024-01-12 |
 |  :office:  Elastic | [Senior Software Engineer](https://www.opentoworkremote.com/apply/568984) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-12 |
 |  :office:  Arcadia | [Cloud Security Engineer](https://www.opentoworkremote.com/apply/572824) | United States | :spiral_calendar: ️2024-01-12 |
 |  :office:  ActiveCampaign | [Manager, Customer Activation Team](https://www.opentoworkremote.com/apply/568474) | Ireland | :spiral_calendar: ️2024-01-12 |
@@ -581,6 +857,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Trusted Family | [Marketing Manager](https://www.opentoworkremote.com/apply/567454) | North America Only | :spiral_calendar: ️2024-01-12 |
 |  :office:  Teleport | [Recruiter - Go to Market](https://www.opentoworkremote.com/apply/572574) | United States | :spiral_calendar: ️2024-01-12 |
 |  :office:  GoDaddy | [Senior Security Engineer](https://www.opentoworkremote.com/apply/568224) | India | :spiral_calendar: ️2024-01-12 |
+|  :office:  CARFAX | [Operations Manager](https://www.opentoworkremote.com/apply/575904) | USA | :spiral_calendar: ️2024-01-12 |
 |  :office:  HICX | [Principal Solution Architect](https://www.opentoworkremote.com/apply/568994) | United States | :spiral_calendar: ️2024-01-12 |
 |  :office:  Swile | [CRM Manager F/M/N](https://www.opentoworkremote.com/apply/568484) | France | :spiral_calendar: ️2024-01-12 |
 |  :office:  NTT DATA | [Dynamics 365 CE Functional Analyst](https://www.opentoworkremote.com/apply/569254) | Canada | :spiral_calendar: ️2024-01-12 |
@@ -590,6 +867,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Blacksky | [Staff Accountant](https://www.opentoworkremote.com/apply/568234) | Holy See | :spiral_calendar: ️2024-01-12 |
 |  :office:  Intersog | [Scrum Master](https://www.opentoworkremote.com/apply/569514) | Mexico | :spiral_calendar: ️2024-01-12 |
 |  :office:  LogicManager | [Senior Customer Success Advocate (New Business Sales)](https://www.opentoworkremote.com/apply/572074) | United States | :spiral_calendar: ️2024-01-12 |
+|  :office:  Smartest Energy | [Accounts Assistant](https://www.opentoworkremote.com/apply/575914) | UK | :spiral_calendar: ️2024-01-12 |
 |  :office:  Daisy Group | [Connectivity Managed Services Engineer](https://www.opentoworkremote.com/apply/572844) | United Kingdom | :spiral_calendar: ️2024-01-12 |
 |  :office:  GoodTime | [Growth Marketing Manager](https://www.opentoworkremote.com/apply/568494) | United States | :spiral_calendar: ️2024-01-12 |
 |  :office:  Fedok | [Desarrollador Back-end](https://www.opentoworkremote.com/apply/567984) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-12 |
@@ -599,6 +877,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Elevate | [Customer Support Agent](https://www.opentoworkremote.com/apply/572594) | United States | :spiral_calendar: ️2024-01-12 |
 |  :office:  ThoughtSpot | [Field Marketing Specialist](https://www.opentoworkremote.com/apply/569524) | United States | :spiral_calendar: ️2024-01-12 |
 |  :office:  Contentful | [Senior Engineering Manager (f/m/d)](https://www.opentoworkremote.com/apply/572084) | Ireland | :spiral_calendar: ️2024-01-12 |
+|  :office:  Qwick | [Payroll Specialist](https://www.opentoworkremote.com/apply/575924) | USA | :spiral_calendar: ️2024-01-12 |
 |  :office:  Liftoff | [Senior Software Engineer (Backend)](https://www.opentoworkremote.com/apply/569014) | United States | :spiral_calendar: ️2024-01-12 |
 |  :office:  Lime | [Senior Data Scientist - Payments and Fraud/Trust](https://www.opentoworkremote.com/apply/572854) | Canada | :spiral_calendar: ️2024-01-12 |
 |  :office:  smartbear | [Talent Acquisition Sourcer](https://www.opentoworkremote.com/apply/568504) | United States | :spiral_calendar: ️2024-01-12 |
@@ -607,6 +886,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Swissborg | [IT Security Manager](https://www.opentoworkremote.com/apply/568254) | Switzerland | :spiral_calendar: ️2024-01-12 |
 |  :office:  Wiser Solutions | [Director, Data Science](https://www.opentoworkremote.com/apply/569534) | Canada | :spiral_calendar: ️2024-01-12 |
 |  :office:  Hyland | [Renewal Manager 2](https://www.opentoworkremote.com/apply/572094) | UK | :spiral_calendar: ️2024-01-12 |
+|  :office:  Bolt | [PR Lead](https://www.opentoworkremote.com/apply/575934) | USA | :spiral_calendar: ️2024-01-12 |
 |  :office:  ShipBob | [International Tax Manager](https://www.opentoworkremote.com/apply/569024) | India | :spiral_calendar: ️2024-01-12 |
 |  :office:  Maven | [Product Marketing (Retention)](https://www.opentoworkremote.com/apply/572864) | United States | :spiral_calendar: ️2024-01-12 |
 |  :office:  Attabotics | [Manager, Technical Support Center](https://www.opentoworkremote.com/apply/568514) | Canada | :spiral_calendar: ️2024-01-12 |
@@ -617,6 +897,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  ClipboardHealth | [Workforce Management Analyst](https://www.opentoworkremote.com/apply/568264) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-12 |
 |  :office:  NTT DATA | [Dynamics 365 CE Technical Architect](https://www.opentoworkremote.com/apply/569544) | Canada | :spiral_calendar: ️2024-01-12 |
 |  :office:  Greyscalegorilla | [Graphic Designer UI/UX](https://www.opentoworkremote.com/apply/573384) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-12 |
+|  :office:  Reed Talent Solutions | [Accountant - NHS](https://www.opentoworkremote.com/apply/575944) | UK | :spiral_calendar: ️2024-01-12 |
 |  :office:  Zup | [Pessoa desenvolvedora Java/Kotlin - Vaga Afirmativa para mulheres](https://www.opentoworkremote.com/apply/569034) | Brazil | :spiral_calendar: ️2024-01-12 |
 |  :office:  PayNearMe | [Compliance Analyst - Remote](https://www.opentoworkremote.com/apply/572874) | United States | :spiral_calendar: ️2024-01-12 |
 |  :office:  H.B. Fuller | [Business Development Manager - Construction Adhesives](https://www.opentoworkremote.com/apply/569294) | India | :spiral_calendar: ️2024-01-12 |
@@ -703,10 +984,12 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Flood | [Web3 Fullstack Engineer](https://www.opentoworkremote.com/apply/569984) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-11 |
 |  :office:  Path | [Data Engineer (Remote)](https://www.opentoworkremote.com/apply/567404) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-11 |
 |  :office:  Lucky VR | [Game Director](https://www.opentoworkremote.com/apply/570194) | Canada | :spiral_calendar: ️2024-01-11 |
+|  :office:  Dropbox | [Associate Counsel, Cybersecurity and Incident Management](https://www.opentoworkremote.com/apply/577664) | Remote - US | :spiral_calendar: ️2024-01-11 |
 |  :office:  Abalia | [Full Stack Developer Java (100% Teletrabajo)](https://www.opentoworkremote.com/apply/564394) | Madrid, Spain | :spiral_calendar: ️2024-01-11 |
 |  :office:  Motive, ex KeepTruckin | [Manager, SMB Sales Engineering](https://www.opentoworkremote.com/apply/563104) | US | :spiral_calendar: ️2024-01-11 |
 |  :office:  Gympass | [B2B Events and Field Marketing Specialist](https://www.opentoworkremote.com/apply/575214) | US (NY - Hybrid) | :spiral_calendar: ️2024-01-11 |
 |  :office:  Augmedix | [Jr. QA Engineer](https://www.opentoworkremote.com/apply/563114) | San Francisco, CA | :spiral_calendar: ️2024-01-11 |
+|  :office:  Movable Ink | [Data Engineer, Business Intelligence and Analytics](https://www.opentoworkremote.com/apply/577724) | Movable Ink - Remote US (EST) | :spiral_calendar: ️2024-01-11 |
 |  :office:  Aubay | [Data Engineer](https://www.opentoworkremote.com/apply/564404) | Madrid, Spain | :spiral_calendar: ️2024-01-11 |
 |  :office:  Airbyte | [Software Engineer, Database Sources](https://www.opentoworkremote.com/apply/568714) | San Francisco | :spiral_calendar: ️2024-01-11 |
 |  :office:  Empower Agency | [Account Executive](https://www.opentoworkremote.com/apply/570214) | UK | :spiral_calendar: ️2024-01-11 |
@@ -743,7 +1026,13 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Stuller, Inc. | [Sr .NET Developer](https://www.opentoworkremote.com/apply/569794) | United States US | :spiral_calendar: ️2024-01-11 |
 |  :office:  Mindbody Business | [Manager, Software Engineering](https://www.opentoworkremote.com/apply/566984) | LATAM | :spiral_calendar: ️2024-01-11 |
 |  :office:  Incode | [Business Analyst ](https://www.opentoworkremote.com/apply/565124) | Mexico / LATAM | :spiral_calendar: ️2024-01-11 |
+|  :office:  Fortis Games | [Director of Product (Games)](https://www.opentoworkremote.com/apply/577774) | Remote - Canada | :spiral_calendar: ️2024-01-11 |
+|  :office:  Fortis Games | [Director of Product](https://www.opentoworkremote.com/apply/577744) | Remote - Spain | :spiral_calendar: ️2024-01-11 |
+|  :office:  Fortis Games | [Director of Product](https://www.opentoworkremote.com/apply/577754) | Remote - Portugal | :spiral_calendar: ️2024-01-11 |
+|  :office:  Fortis Games | [Director of Product](https://www.opentoworkremote.com/apply/577764) | Remote - Romania | :spiral_calendar: ️2024-01-11 |
+|  :office:  Fortis Games | [Art Producer](https://www.opentoworkremote.com/apply/577734) | Remote - Brazil | :spiral_calendar: ️2024-01-11 |
 |  :office:  BlueOcean | [DevOps Engineer](https://www.opentoworkremote.com/apply/563234) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-11 |
+|  :office:  Blockchain | [Assistant Accountant ](https://www.opentoworkremote.com/apply/577694) | Singapore - Hybrid | :spiral_calendar: ️2024-01-11 |
 |  :office:  Codifi | [Full Stack Engineer (Web)](https://www.opentoworkremote.com/apply/566644) | USA | :spiral_calendar: ️2024-01-11 |
 |  :office:  Technergetics | [Python Software Engineer II](https://www.opentoworkremote.com/apply/563244) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-11 |
 |  :office:  Hunter | [Senior Full-stack Engineer](https://www.opentoworkremote.com/apply/563254) | France | :spiral_calendar: ️2024-01-11 |
@@ -803,6 +1092,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Actionstep | [Data Migration Developer](https://www.opentoworkremote.com/apply/563774) | Remote, Canada | :spiral_calendar: ️2024-01-11 |
 |  :office:  Civica UK Ltd | [PR & Communications Manager](https://www.opentoworkremote.com/apply/564034) | Remote, United Kingdom | :spiral_calendar: ️2024-01-11 |
 |  :office:  Talent Hackers | [Senior IT Ecosystem Developer (Blockchain Developer)](https://www.opentoworkremote.com/apply/563784) | Remote, Spain | :spiral_calendar: ️2024-01-11 |
+|  :office:  GoGlobal | [Benefits Specialist - LATAM](https://www.opentoworkremote.com/apply/576584) | Remote, Brazil | :spiral_calendar: ️2024-01-11 |
 |  :office:  Worth AI | [Content Marketing Manager](https://www.opentoworkremote.com/apply/564044) | Remote, United States | :spiral_calendar: ️2024-01-11 |
 |  :office:  SenseOn | [Cyber Security Analyst](https://www.opentoworkremote.com/apply/563794) | Remote, United Kingdom | :spiral_calendar: ️2024-01-11 |
 |  :office:  Huble | [Project Management Team Lead (South Africa)](https://www.opentoworkremote.com/apply/564054) | Remote, South Africa | :spiral_calendar: ️2024-01-11 |
@@ -829,6 +1119,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Infosys Consulting - Europe | [Retail Architect](https://www.opentoworkremote.com/apply/563894) | Remote, Poland | :spiral_calendar: ️2024-01-11 |
 |  :office:  iWarranty | [Senior Backend Engineer](https://www.opentoworkremote.com/apply/564154) | Remote, India | :spiral_calendar: ️2024-01-11 |
 |  :office:  STING SOCCER | [Data Analyst Intern](https://www.opentoworkremote.com/apply/564164) | Remote, United States | :spiral_calendar: ️2024-01-11 |
+|  :office:  Multiplica Talent | [Sr Frontend Developer Angular](https://www.opentoworkremote.com/apply/576964) | Remote, Argentina | :spiral_calendar: ️2024-01-11 |
 |  :office:  PTW | [Italian Game Tester](https://www.opentoworkremote.com/apply/563914) | Remote, United Kingdom | :spiral_calendar: ️2024-01-11 |
 |  :office:  Revolution Group | [Senior Plex Consultant](https://www.opentoworkremote.com/apply/564174) | Remote, United States | :spiral_calendar: ️2024-01-11 |
 |  :office:  Apifon | [Senior Associate, Product Marketing](https://www.opentoworkremote.com/apply/563924) | Remote, Greece | :spiral_calendar: ️2024-01-11 |
@@ -845,6 +1136,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  RVO Health | [Senior Corporate Counsel, Privacy](https://www.opentoworkremote.com/apply/566274) | United States | :spiral_calendar: ️2024-01-11 |
 |  :office:  Capella Space | [NetSuite Administrator](https://www.opentoworkremote.com/apply/564484) | Boulder, CO , United States | :spiral_calendar: ️2024-01-11 |
 |  :office:  Business & Decision | [Lead Tech Data (H/F)](https://www.opentoworkremote.com/apply/565764) | France | :spiral_calendar: ️2024-01-11 |
+|  :office:  Cancer Research UK | [Marketing Delivery Executive](https://www.opentoworkremote.com/apply/576004) | UK | :spiral_calendar: ️2024-01-11 |
 |  :office:  BASF | [Werkstudent:in HR Zeitwirtschaft (m/w/d)](https://www.opentoworkremote.com/apply/565254) | United Kingdom | :spiral_calendar: ️2024-01-11 |
 |  :office:  Veepee | [Junior E-Merchandiser W/M/X](https://www.opentoworkremote.com/apply/564744) | Italy | :spiral_calendar: ️2024-01-11 |
 |  :office:  AECOM | [Hydraulics (Road Design ) Engineering](https://www.opentoworkremote.com/apply/566024) | Romania | :spiral_calendar: ️2024-01-11 |
@@ -853,6 +1145,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  eCore | [Senior Application Support Engineer - Access](https://www.opentoworkremote.com/apply/565004) | Brazil | :spiral_calendar: ️2024-01-11 |
 |  :office:  Echostar | [Sr Assembler](https://www.opentoworkremote.com/apply/564494) | MD-Gaithersburg, United States | :spiral_calendar: ️2024-01-11 |
 |  :office:  Findem | [Researcher - Data Operations Intern](https://www.opentoworkremote.com/apply/565774) | India | :spiral_calendar: ️2024-01-11 |
+|  :office:  Revinate | [Recruiting & People Ops Coordinator](https://www.opentoworkremote.com/apply/576014) | USA | :spiral_calendar: ️2024-01-11 |
 |  :office:  Alarm.com | [Regional Sales Manager, South East](https://www.opentoworkremote.com/apply/565264) | Australia | :spiral_calendar: ️2024-01-11 |
 |  :office:  Gemini | [Associate Director, Internal Audit](https://www.opentoworkremote.com/apply/564754) | United States | :spiral_calendar: ️2024-01-11 |
 |  :office:  OpenPhone | [Senior Backend Engineer](https://www.opentoworkremote.com/apply/566034) | Canada | :spiral_calendar: ️2024-01-11 |
@@ -997,6 +1290,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  DEON | [Senior Cloud Asp.NET, Kubernetes Developer](https://www.opentoworkremote.com/apply/567504) | Europe Only | :spiral_calendar: ️2024-01-11 |
 |  :office:  DDB Latina | [Multimedia Editor](https://www.opentoworkremote.com/apply/564434) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-11 |
 |  :office:  Palo Alto Networks | [Systems Engineer - Federal Civilian](https://www.opentoworkremote.com/apply/565714) | United States | :spiral_calendar: ️2024-01-11 |
+|  :office:  Tiger Recruitment | [Credit Controller](https://www.opentoworkremote.com/apply/575954) | UK | :spiral_calendar: ️2024-01-11 |
 |  :office:  Wealthfront | [Lead Product Designer, Growth](https://www.opentoworkremote.com/apply/565204) | United States | :spiral_calendar: ️2024-01-11 |
 |  :office:  Jaques of London | [Full Stack Web Developer / Designer](https://www.opentoworkremote.com/apply/566484) | City of London, United Kingdom | :spiral_calendar: ️2024-01-11 |
 |  :office:  Smile Identity | [Product Marketing Manager](https://www.opentoworkremote.com/apply/564694) | Africa | :spiral_calendar: ️2024-01-11 |
@@ -1008,16 +1302,19 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  SugarCRM | [Senior Director, Customer Success](https://www.opentoworkremote.com/apply/566234) | United States | :spiral_calendar: ️2024-01-11 |
 |  :office:  GMass, Inc. | [A non-existent assistant (100K+ USD/year)](https://www.opentoworkremote.com/apply/567514) | USA Only | :spiral_calendar: ️2024-01-11 |
 |  :office:  PermitFlow | [Administrative Assistant (US)](https://www.opentoworkremote.com/apply/565724) | United States | :spiral_calendar: ️2024-01-11 |
+|  :office:  Adecco | [Project Administrator](https://www.opentoworkremote.com/apply/575964) | UK | :spiral_calendar: ️2024-01-11 |
 |  :office:  Strava | [Senior Technical Program Manager](https://www.opentoworkremote.com/apply/565214) | United States | :spiral_calendar: ️2024-01-11 |
 |  :office:  Cathexis | [Associate Program Analyst (Event Coordinator)](https://www.opentoworkremote.com/apply/564704) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-11 |
 |  :office:  Bureau Veritas Group | [Environmental Project Coordinator, part time (BVTA)](https://www.opentoworkremote.com/apply/565984) | United States | :spiral_calendar: ️2024-01-11 |
 |  :office:  Docebo | [Application Security Engineer - AppSec](https://www.opentoworkremote.com/apply/568544) | Italy | :spiral_calendar: ️2024-01-11 |
 |  :office:  Design Womb | [Mid-level Branding & Packaging Designer](https://www.opentoworkremote.com/apply/569824) | Remote (California) | :spiral_calendar: ️2024-01-11 |
+|  :office:  Jaques of London | [Office-Based Web Developer / Designer](https://www.opentoworkremote.com/apply/578784) | City of London, United Kingdom | :spiral_calendar: ️2024-01-11 |
 |  :office:  Thumbtack | [Application Support Analyst](https://www.opentoworkremote.com/apply/565474) | Philippines | :spiral_calendar: ️2024-01-11 |
 |  :office:  GMass, Inc. | [A non-existent assistant](https://www.opentoworkremote.com/apply/563684) | USA Only | :spiral_calendar: ️2024-01-11 |
 |  :office:  AllworthFinancial | [Client Operations Representative](https://www.opentoworkremote.com/apply/564964) | United States | :spiral_calendar: ️2024-01-11 |
 |  :office:  CarGurus | [Regional Sales Director, Chicago](https://www.opentoworkremote.com/apply/566244) | United States | :spiral_calendar: ️2024-01-11 |
 |  :office:  Pactum | [Enterprise Account Executive (US)](https://www.opentoworkremote.com/apply/565734) | United States | :spiral_calendar: ️2024-01-11 |
+|  :office:  Wonderlic | [Strategic Customer Success Manager](https://www.opentoworkremote.com/apply/575974) | USA | :spiral_calendar: ️2024-01-11 |
 |  :office:  Grow Therapy | [Senior Security Engineer, Application Security](https://www.opentoworkremote.com/apply/565224) | United States | :spiral_calendar: ️2024-01-11 |
 |  :office:  Clari | [Sr. Technical Support Engineer - Remote](https://www.opentoworkremote.com/apply/564714) | United States | :spiral_calendar: ️2024-01-11 |
 |  :office:  Octopus Energy | [Operations Manager](https://www.opentoworkremote.com/apply/565994) | United Kingdom | :spiral_calendar: ️2024-01-11 |
@@ -1027,6 +1324,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Onfido | [Senior Front End Engineer](https://www.opentoworkremote.com/apply/564974) | United Kingdom | :spiral_calendar: ️2024-01-11 |
 |  :office:  Course Hero | [Freelance Text-Based Tutor (Non-Voice)](https://www.opentoworkremote.com/apply/566254) | Philippines | :spiral_calendar: ️2024-01-11 |
 |  :office:  Endeavour Group | [Finance Business Partner - Bars and Entertainment](https://www.opentoworkremote.com/apply/565744) | Australia | :spiral_calendar: ️2024-01-11 |
+|  :office:  Lunio | [HR Manager](https://www.opentoworkremote.com/apply/575984) | UK | :spiral_calendar: ️2024-01-11 |
 |  :office:  DCX PH | [Home Based Process Writer](https://www.opentoworkremote.com/apply/565234) | Philippines | :spiral_calendar: ️2024-01-11 |
 |  :office:  Unit4 | [DevOps Engineer](https://www.opentoworkremote.com/apply/566004) | Poland | :spiral_calendar: ️2024-01-11 |
 |  :office:  Ushur | [Customer Success Manager](https://www.opentoworkremote.com/apply/568564) | India | :spiral_calendar: ️2024-01-11 |
@@ -1035,6 +1333,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Ataccama | [SaaS Python Engineer](https://www.opentoworkremote.com/apply/564984) | Czechia | :spiral_calendar: ️2024-01-11 |
 |  :office:  Savii | [B2C Risk Officer](https://www.opentoworkremote.com/apply/566264) | Philippines | :spiral_calendar: ️2024-01-11 |
 |  :office:  Ent Credit Union | [Software Quality Assurance Analyst Lead - Enablements](https://www.opentoworkremote.com/apply/565754) | United States | :spiral_calendar: ️2024-01-11 |
+|  :office:  CARFAX | [Salesforce Developer](https://www.opentoworkremote.com/apply/575994) | USA | :spiral_calendar: ️2024-01-11 |
 |  :office:  Endeavour Group | [Risk and Compliance Manager](https://www.opentoworkremote.com/apply/565244) | Australia | :spiral_calendar: ️2024-01-11 |
 |  :office:  Donut | [Fractional Marketing Consultant (NYC hybrid or Remote US)](https://www.opentoworkremote.com/apply/564734) | United States | :spiral_calendar: ️2024-01-11 |
 |  :office:  LGC Group | [Customer Success Executive](https://www.opentoworkremote.com/apply/566014) | United Kingdom | :spiral_calendar: ️2024-01-11 |
@@ -1258,6 +1557,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Logz | [Fullstack Developer](https://www.opentoworkremote.com/apply/561424) | Israel | :spiral_calendar: ️2024-01-10 |
 |  :office:  DoorDash | [Associate, Strategy & Operations - Drive](https://www.opentoworkremote.com/apply/561684) | United States | :spiral_calendar: ️2024-01-10 |
 |  :office:  TELUS International AI INC | [Online Data Analyst](https://www.opentoworkremote.com/apply/563734) | USA Only | :spiral_calendar: ️2024-01-10 |
+|  :office:  The Social Element | [Account Director (Social Media)](https://www.opentoworkremote.com/apply/576024) | USA | :spiral_calendar: ️2024-01-10 |
 |  :office:  Whatnot | [Software Engineer, Infrastructure - Poland](https://www.opentoworkremote.com/apply/561434) | Poland | :spiral_calendar: ️2024-01-10 |
 |  :office:  Vero | [Enterprise Customer Success Manager](https://www.opentoworkremote.com/apply/561694) | United States | :spiral_calendar: ️2024-01-10 |
 |  :office:  Instinct Science | [Senior Full-Stack Engineer](https://www.opentoworkremote.com/apply/563744) | North America Only | :spiral_calendar: ️2024-01-10 |
@@ -1330,309 +1630,6 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Pure Storage | [Senior Account System Engineer - Germany](https://www.opentoworkremote.com/apply/560054) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
 |  :office:  Square | [Product Manager Lead, c=](https://www.opentoworkremote.com/apply/560064) | San Francisco, CA | :spiral_calendar: ️2024-01-09 |
 |  :office:  Square | [Lead Android Engineer, Checkout](https://www.opentoworkremote.com/apply/560074) | US | :spiral_calendar: ️2024-01-09 |
-|  :office:  Square | [Senior Artificial Intelligence Engineer, Conversations](https://www.opentoworkremote.com/apply/560084) | San Francisco, CA | :spiral_calendar: ️2024-01-09 |
-|  :office:  Square | [Senior Software Engineer, TBD Foundational Engineering](https://www.opentoworkremote.com/apply/560094) | San Francisco, CA | :spiral_calendar: ️2024-01-09 |
-|  :office:  Square | [Senior Software Engineer - Fraud Risk](https://www.opentoworkremote.com/apply/560104) | San Francisco, CA | :spiral_calendar: ️2024-01-09 |
-|  :office:  Square | [Android Tech Lead, Order Management](https://www.opentoworkremote.com/apply/560114) | Denver, CO | :spiral_calendar: ️2024-01-09 |
-|  :office:  Vonage | [Senior Product Manager - Developer Experience Platform](https://www.opentoworkremote.com/apply/560124) | Poland | :spiral_calendar: ️2024-01-09 |
-|  :office:  Esri | [Sr. C++ Software Developer - Knowledge Graphs](https://www.opentoworkremote.com/apply/560134) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Esri | [Sr. C++ Backend Developer](https://www.opentoworkremote.com/apply/560144) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Esri | [C++ Software Engineer II - Graph Algorithms](https://www.opentoworkremote.com/apply/560154) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Order | [Senior Software Engineer](https://www.opentoworkremote.com/apply/560164) | New York, NY | :spiral_calendar: ️2024-01-09 |
-|  :office:  Order | [Senior Software Engineer, Full Stack](https://www.opentoworkremote.com/apply/560174) | US | :spiral_calendar: ️2024-01-09 |
-|  :office:  Hertility Health | [Senior CRM Consultant](https://www.opentoworkremote.com/apply/562634) | UK | :spiral_calendar: ️2024-01-09 |
-|  :office:  Fulcrum | [iOS Developer (Swift)](https://www.opentoworkremote.com/apply/562644) | Ukraine | :spiral_calendar: ️2024-01-09 |
-|  :office:  Tackle | [Software Architect](https://www.opentoworkremote.com/apply/562654) | Northern America | :spiral_calendar: ️2024-01-09 |
-|  :office:  Underground Administration | [Front-end Developer](https://www.opentoworkremote.com/apply/562664) | USA | :spiral_calendar: ️2024-01-09 |
-|  :office:  Mindera | [C++ Developer](https://www.opentoworkremote.com/apply/560184) | Portugal | :spiral_calendar: ️2024-01-09 |
-|  :office:  sikhcoalition | [Senior Federal Policy Manager](https://www.opentoworkremote.com/apply/562674) | USA | :spiral_calendar: ️2024-01-09 |
-|  :office:  Nordcloud | [Cloud Advisor](https://www.opentoworkremote.com/apply/562684) | Poland | :spiral_calendar: ️2024-01-09 |
-|  :office:  Shuvel Digital | [Senior Java Backend Developer](https://www.opentoworkremote.com/apply/562694) | USA | :spiral_calendar: ️2024-01-09 |
-|  :office:  Appian | [Associate Application Engineer](https://www.opentoworkremote.com/apply/559404) | Mexico City, Mexico | :spiral_calendar: ️2024-01-09 |
-|  :office:  Praxent | [LATAM Java Fullstack Developer](https://www.opentoworkremote.com/apply/560194) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Praxent | [LATAM IOS / Android Developer](https://www.opentoworkremote.com/apply/560204) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Hedera Hashgraph | [Spring 2024 Global Policy Intern](https://www.opentoworkremote.com/apply/562344) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Status.im | [Software Engineer (go-waku)](https://www.opentoworkremote.com/apply/560214) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  CUDOS | [Web3 Site Reliability Engineer](https://www.opentoworkremote.com/apply/562354) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Chainstack | [Sales Development Representative](https://www.opentoworkremote.com/apply/562364) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Monad Labs | [Senior Software Engineer Integrations](https://www.opentoworkremote.com/apply/562374) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Ondo Finance | [VP of Operations](https://www.opentoworkremote.com/apply/562384) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Space Ape Games  | [Community Manager](https://www.opentoworkremote.com/apply/562704) | UK | :spiral_calendar: ️2024-01-09 |
-|  :office:  OfferUp | [Junior Software Development Engineer - Backend, Explore Team (@Remote, Chile and Colombia)](https://www.opentoworkremote.com/apply/561904) | Remote, Chile and Colombia | :spiral_calendar: ️2024-01-09 |
-|  :office:  Salad Technologies | [Sr. Software Engineer](https://www.opentoworkremote.com/apply/560224) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Salad Technologies | [Sr. Backend Developer](https://www.opentoworkremote.com/apply/560234) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Monad | [Senior Software Engineer, Integrations](https://www.opentoworkremote.com/apply/560244) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Monad | [Senior Software Engineer, Compiler](https://www.opentoworkremote.com/apply/560254) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Monad | [Senior Software Engineer, C++](https://www.opentoworkremote.com/apply/560264) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Monad | [Senior Software Engineer, Blockchain](https://www.opentoworkremote.com/apply/560274) | New York, NY | :spiral_calendar: ️2024-01-09 |
-|  :office:  Monad | [Senior Developer Relations Engineer](https://www.opentoworkremote.com/apply/560284) | New York, NY | :spiral_calendar: ️2024-01-09 |
-|  :office:  Request Network | [Open application](https://www.opentoworkremote.com/apply/562394) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  NetApp | [Software Engineer](https://www.opentoworkremote.com/apply/560294) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  SumUp | [Senior IOS Developer](https://www.opentoworkremote.com/apply/559414) | Santiago, Chile | :spiral_calendar: ️2024-01-09 |
-|  :office:  OpenPhone | [Senior Backend Engineer](https://www.opentoworkremote.com/apply/560304) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  OpenPhone | [iOS Software Engineer](https://www.opentoworkremote.com/apply/560314) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  OpenPhone | [Backend Engineer](https://www.opentoworkremote.com/apply/560324) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Agero | [Engineering Manager](https://www.opentoworkremote.com/apply/560334) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Tava Health | [Support Associate](https://www.opentoworkremote.com/apply/562714) | USA | :spiral_calendar: ️2024-01-09 |
-|  :office:  Lyft | [Senior Backend Software Engineer - Mexico](https://www.opentoworkremote.com/apply/559424) | Mexico City, Mexico | :spiral_calendar: ️2024-01-09 |
-|  :office:  SupraOracles | [Blockchain Developer (Rust/Move)](https://www.opentoworkremote.com/apply/560344) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Motional | [Senior Software Engineer](https://www.opentoworkremote.com/apply/560354) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  BillionToOne | [Sr. Manager/Director, CRM and Lifecycle Marketing](https://www.opentoworkremote.com/apply/560364) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Belong Home | [Director, Customer Success](https://www.opentoworkremote.com/apply/561914) | Miami | :spiral_calendar: ️2024-01-09 |
-|  :office:  Sanity | [Staff Product Designer, Studio Developer Experience](https://www.opentoworkremote.com/apply/560374) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Brex | [Security Engineer, Application Security](https://www.opentoworkremote.com/apply/559434) | Brazil | :spiral_calendar: ️2024-01-09 |
-|  :office:  Ahrefs | [D/C++ Developer](https://www.opentoworkremote.com/apply/560384) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Ahrefs | [Backend Engineer - SRE](https://www.opentoworkremote.com/apply/560394) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Signal Messenger | [Server (Backend) Engineer](https://www.opentoworkremote.com/apply/560404) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Signal Messenger | [iOS Engineer](https://www.opentoworkremote.com/apply/560414) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Signal Messenger | [Android Engineer](https://www.opentoworkremote.com/apply/560424) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Salsify | [Customer Onboarding Associate (French-speaking)](https://www.opentoworkremote.com/apply/575234) | Remote, Portugal | :spiral_calendar: ️2024-01-09 |
-|  :office:  Salsify | [Data Engineer](https://www.opentoworkremote.com/apply/575264) | Remote, Portugal | :spiral_calendar: ️2024-01-09 |
-|  :office:  Salsify | [Demand Generation Manager](https://www.opentoworkremote.com/apply/575274) | US, Remote | :spiral_calendar: ️2024-01-09 |
-|  :office:  Acquia | [Software Engineer (K8)](https://www.opentoworkremote.com/apply/560434) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  New Relic | [Lead Software Engineer](https://www.opentoworkremote.com/apply/560444) | India | :spiral_calendar: ️2024-01-09 |
-|  :office:  Muck Rack | [Senior DevOps Engineer](https://www.opentoworkremote.com/apply/556344) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Nitka | [UI/UX Des](https://www.opentoworkremote.com/apply/562724) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  BytePitch - Software Labs | [Backend Software Engineer (Node.js)](https://www.opentoworkremote.com/apply/562734) | Portugal | :spiral_calendar: ️2024-01-09 |
-|  :office:  Oxigent Technologies | [Senior Angular Developer (Full Remote)](https://www.opentoworkremote.com/apply/557034) | Madrid, Spain | :spiral_calendar: ️2024-01-09 |
-|  :office:  Sopra Steria | [Data Teachlead](https://www.opentoworkremote.com/apply/557044) | Madrid, Spain | :spiral_calendar: ️2024-01-09 |
-|  :office:  Palo Alto Networks | [Systems Engineer, Cortex](https://www.opentoworkremote.com/apply/562204) | United States US | :spiral_calendar: ️2024-01-09 |
-|  :office:  Insight Global | [. NET Developer](https://www.opentoworkremote.com/apply/562214) | United States US | :spiral_calendar: ️2024-01-09 |
-|  :office:  Seven Seven Softwares | [Net developer](https://www.opentoworkremote.com/apply/562224) | United States US | :spiral_calendar: ️2024-01-09 |
-|  :office:  Paymentus Corporation | [Fullstack Developer](https://www.opentoworkremote.com/apply/562234) | Canada CA | :spiral_calendar: ️2024-01-09 |
-|  :office:  CGI | [Web Front End Developer](https://www.opentoworkremote.com/apply/562244) | Canada CA | :spiral_calendar: ️2024-01-09 |
-|  :office:  AutoTrader.ca | [Développeur Back-end Sénior](https://www.opentoworkremote.com/apply/562254) | Canada CA | :spiral_calendar: ️2024-01-09 |
-|  :office:  The Weir Group | [Product Design Systems Engineer](https://www.opentoworkremote.com/apply/562264) | Canada CA | :spiral_calendar: ️2024-01-09 |
-|  :office:  CGB Enterprises, Inc. | [Software Developer](https://www.opentoworkremote.com/apply/562274) | United States US | :spiral_calendar: ️2024-01-09 |
-|  :office:  Milliman | [Senior Software Developer](https://www.opentoworkremote.com/apply/562284) | United States US | :spiral_calendar: ️2024-01-09 |
-|  :office:  Q-TECH | [Java Developer - Catalan speaker](https://www.opentoworkremote.com/apply/557054) | Barcelona, Spain | :spiral_calendar: ️2024-01-09 |
-|  :office:  CMV Consultores | [EBS Technical](https://www.opentoworkremote.com/apply/557064) | Madrid, Spain | :spiral_calendar: ️2024-01-09 |
-|  :office:  Aubay | [Consultor Siebel](https://www.opentoworkremote.com/apply/557074) | Madrid, Spain | :spiral_calendar: ️2024-01-09 |
-|  :office:  OpenTable | [Senior Security Engineer (Remote, USA)](https://www.opentoworkremote.com/apply/556354) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  ButterCMS | [Partnership Sales Manager](https://www.opentoworkremote.com/apply/559034) | USA | :spiral_calendar: ️2024-01-09 |
-|  :office:  Monite | [Senior Business Development Lead](https://www.opentoworkremote.com/apply/559044) | USA | :spiral_calendar: ️2024-01-09 |
-|  :office:  Qualifyzegmbh | [Key Account Executive](https://www.opentoworkremote.com/apply/559054) | Europe | :spiral_calendar: ️2024-01-09 |
-|  :office:  0x | [Sr. Brand Designer](https://www.opentoworkremote.com/apply/559064) | USA | :spiral_calendar: ️2024-01-09 |
-|  :office:  ROSEWOOD Creative | [Creative Director (Art)](https://www.opentoworkremote.com/apply/559074) | USA | :spiral_calendar: ️2024-01-09 |
-|  :office:  Verana Health | [Software Engineer II - Data Services](https://www.opentoworkremote.com/apply/556364) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Talent Search People | [Ingniero/a de Software PHP](https://www.opentoworkremote.com/apply/557084) | Madrid, Spain | :spiral_calendar: ️2024-01-09 |
-|  :office:  ZOE | [Back-end Software Engineer - Insights & Advice](https://www.opentoworkremote.com/apply/556374) | Oregon | :spiral_calendar: ️2024-01-09 |
-|  :office:  Reveleer | [Clinical Operations Trainer](https://www.opentoworkremote.com/apply/559084) | USA | :spiral_calendar: ️2024-01-09 |
-|  :office:  eVisit | [Senior Engineering Manager](https://www.opentoworkremote.com/apply/559094) | USA | :spiral_calendar: ️2024-01-09 |
-|  :office:  strongDM | [Manager of Frontend Engineering](https://www.opentoworkremote.com/apply/556384) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Motive, ex KeepTruckin | [Senior IT Support Engineer II](https://www.opentoworkremote.com/apply/560454) | US | :spiral_calendar: ️2024-01-09 |
-|  :office:  Metronome | [Engineering Manager](https://www.opentoworkremote.com/apply/556394) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Cribl | [Americas Director Solutions Engineering](https://www.opentoworkremote.com/apply/556404) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  CoverGo | [Manual Software QA Engineer](https://www.opentoworkremote.com/apply/559104) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Big Viking Games | [Director of Human Resources & People Operations Manager](https://www.opentoworkremote.com/apply/562744) | Canada | :spiral_calendar: ️2024-01-09 |
-|  :office:  Lovevery | [Senior Analytics Engineer](https://www.opentoworkremote.com/apply/559114) | USA | :spiral_calendar: ️2024-01-09 |
-|  :office:  Trilateralresearch | [Data Scientist - iToBoS](https://www.opentoworkremote.com/apply/559124) | Ireland | :spiral_calendar: ️2024-01-09 |
-|  :office:  Forbes Advisor | [Sr. Associate, Business Operations](https://www.opentoworkremote.com/apply/559134) | USA | :spiral_calendar: ️2024-01-09 |
-|  :office:  Sword Group | [Delivery Lead/Scrum Master](https://www.opentoworkremote.com/apply/559144) | UK | :spiral_calendar: ️2024-01-09 |
-|  :office:  Sword Group | [Agile Business/Product Analyst](https://www.opentoworkremote.com/apply/559154) | UK | :spiral_calendar: ️2024-01-09 |
-|  :office:  Grafana Labs | [Senior Solutions Engineer (Remote, Mid Atlantic)](https://www.opentoworkremote.com/apply/556414) | US | :spiral_calendar: ️2024-01-09 |
-|  :office:  Demiurge Studios | [Senior Engineering Manager](https://www.opentoworkremote.com/apply/556424) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Clari | [Sr. Technical Support Engineer - Remote](https://www.opentoworkremote.com/apply/556434) | Seattle, WA | :spiral_calendar: ️2024-01-09 |
-|  :office:  Very Good Security | [Lead Solutions Architect](https://www.opentoworkremote.com/apply/556444) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  ConvertKit | [Director of Creator Partnerships](https://www.opentoworkremote.com/apply/557724) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Two95 International Inc. | [Ariba Supplier Resource](https://www.opentoworkremote.com/apply/559164) | USA | :spiral_calendar: ️2024-01-09 |
-|  :office:  ClientSolv Technologies | [Bilingual Copywriter](https://www.opentoworkremote.com/apply/559174) | USA | :spiral_calendar: ️2024-01-09 |
-|  :office:  Jibble Group | [Content Writer (Spanish)](https://www.opentoworkremote.com/apply/559184) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Nuvei | [Product Coordinator](https://www.opentoworkremote.com/apply/561154) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  EGERIE | [Développeur Fullstack Symfony / React H/F](https://www.opentoworkremote.com/apply/556804) | Remote, France | :spiral_calendar: ️2024-01-09 |
-|  :office:  SupplyCore | [Client Support Representative](https://www.opentoworkremote.com/apply/561164) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Exely | [Business Development Executive (Sales)](https://www.opentoworkremote.com/apply/556814) | Remote, Turkey | :spiral_calendar: ️2024-01-09 |
-|  :office:  Congo Brands | [Fleet Coordinator](https://www.opentoworkremote.com/apply/561174) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Catena | [Executive Assistant (Social and Content Focused) - NS](https://www.opentoworkremote.com/apply/556824) | Remote, Philippines | :spiral_calendar: ️2024-01-09 |
-|  :office:  Selfmastered | [Short-form Video Editor](https://www.opentoworkremote.com/apply/556834) | Remote, Philippines | :spiral_calendar: ️2024-01-09 |
-|  :office:  Future Publishing | [Video Distribution & Social Media Assistant](https://www.opentoworkremote.com/apply/561194) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  5.5 Degrees PH Inc. | [Accounting Integrations Reconciliation Specialist](https://www.opentoworkremote.com/apply/556844) | Remote, Philippines | :spiral_calendar: ️2024-01-09 |
-|  :office:  Hire Resolve | [Senior Recruitment Consultant](https://www.opentoworkremote.com/apply/556854) | Remote, South Africa | :spiral_calendar: ️2024-01-09 |
-|  :office:  Alphatec Spine | [Sales Representative](https://www.opentoworkremote.com/apply/561214) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Hire Resolve | [Recruitment Consultant](https://www.opentoworkremote.com/apply/556864) | Remote, South Africa | :spiral_calendar: ️2024-01-09 |
-|  :office:  RPO Recruitment | [Recruitment Consultant (US Finance Recruiter)](https://www.opentoworkremote.com/apply/556614) | Remote, South Africa | :spiral_calendar: ️2024-01-09 |
-|  :office:  Common App | [User Experience Designer - US Based Remote Opportunity](https://www.opentoworkremote.com/apply/561224) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Unison Consulting Pte Ltd | [Business Information Security Officer (BISO)](https://www.opentoworkremote.com/apply/556874) | Remote, India | :spiral_calendar: ️2024-01-09 |
-|  :office:  RPO Recruitment | [Recruitment Consultant (US Engineering Recruiter)](https://www.opentoworkremote.com/apply/556624) | Remote, South Africa | :spiral_calendar: ️2024-01-09 |
-|  :office:  VCPG Security | [Data Entry Clerk](https://www.opentoworkremote.com/apply/556884) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  RPO Recruitment | [Recruitment Consultant - Engineering Division (Real-estate exp)](https://www.opentoworkremote.com/apply/556634) | Remote, South Africa | :spiral_calendar: ️2024-01-09 |
-|  :office:  SkyCell AG | [Campaign Marketing Manager (m/f/d)](https://www.opentoworkremote.com/apply/556894) | Remote, Netherlands | :spiral_calendar: ️2024-01-09 |
-|  :office:  RPO Recruitment | [Recruitment Consultant - (UK Engineering Recruitment)](https://www.opentoworkremote.com/apply/556644) | Remote, South Africa | :spiral_calendar: ️2024-01-09 |
-|  :office:  SkyCell AG | [Campaign Marketing Manager (m/f/d)](https://www.opentoworkremote.com/apply/556904) | Remote, United Kingdom | :spiral_calendar: ️2024-01-09 |
-|  :office:  RPO Recruitment | [Recruitment Consultant - (Engineering Recruitment Africa)](https://www.opentoworkremote.com/apply/556654) | Remote, South Africa | :spiral_calendar: ️2024-01-09 |
-|  :office:  5.5 Degrees PH Inc. | [Internal Accountant](https://www.opentoworkremote.com/apply/556914) | Remote, Philippines | :spiral_calendar: ️2024-01-09 |
-|  :office:  Kiratech | [Cloud Native Machine Learning Engineer](https://www.opentoworkremote.com/apply/556664) | Remote, Italy | :spiral_calendar: ️2024-01-09 |
-|  :office:  Magic Media | [Lead Animator](https://www.opentoworkremote.com/apply/561274) | Remote, Argentina | :spiral_calendar: ️2024-01-09 |
-|  :office:  Respiris | [Content Marketing Leader - Fractional](https://www.opentoworkremote.com/apply/556924) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  BlackStone eIT | [Senior UI Designer](https://www.opentoworkremote.com/apply/556674) | Remote, Tunisia | :spiral_calendar: ️2024-01-09 |
-|  :office:  Respiris | [Marketplace Operations Leader - Fractional](https://www.opentoworkremote.com/apply/556934) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Zipwater | [Specification Manager](https://www.opentoworkremote.com/apply/556684) | Remote, United Kingdom | :spiral_calendar: ️2024-01-09 |
-|  :office:  Lap of Love | [Mobile Veterinarian](https://www.opentoworkremote.com/apply/556944) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  The Marketing Practice | [Multilingual Sales Activation Specialist (9 Month Contract) -French/German](https://www.opentoworkremote.com/apply/556694) | Remote, United Kingdom | :spiral_calendar: ️2024-01-09 |
-|  :office:  Lap of Love | [Mobile Veterinarian](https://www.opentoworkremote.com/apply/556954) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  graphicka | [Executive Assistant](https://www.opentoworkremote.com/apply/561054) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Zyte | [Account Based Marketing Manager - Remote](https://www.opentoworkremote.com/apply/556704) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Lap of Love | [Mobile Veterinarian](https://www.opentoworkremote.com/apply/556964) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Jacuzzi Group | [Regional Sales Manager](https://www.opentoworkremote.com/apply/561064) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  WhoCanFixMyCar | [Customer Service Advisor](https://www.opentoworkremote.com/apply/556714) | Remote, United Kingdom | :spiral_calendar: ️2024-01-09 |
-|  :office:  Returnmates | [Support Lead](https://www.opentoworkremote.com/apply/556974) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Oura | [Senior Accountant](https://www.opentoworkremote.com/apply/561074) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Packt | [Performance Marketing Specialist](https://www.opentoworkremote.com/apply/556724) | Remote, India | :spiral_calendar: ️2024-01-09 |
-|  :office:  Triple Point Collective | [Financial Planning Analyst (Contract)](https://www.opentoworkremote.com/apply/556984) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  AC Disaster Consulting | [FEMA PA TAC V - Planners, Environmental & General Emergency Mgmt](https://www.opentoworkremote.com/apply/561084) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  EGERIE | [Ingénieur Cybersécurité (H/F)](https://www.opentoworkremote.com/apply/556734) | Remote, France | :spiral_calendar: ️2024-01-09 |
-|  :office:  Triple Point Collective | [Graphic Designer (Contract)](https://www.opentoworkremote.com/apply/556994) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  TPAPT | [Tutor, Grades 9-12, Local School Program (Remote)](https://www.opentoworkremote.com/apply/561094) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Two | [Graphic Designer - part time](https://www.opentoworkremote.com/apply/556744) | Remote, United Kingdom | :spiral_calendar: ️2024-01-09 |
-|  :office:  Wider Circle | [Data Entry Specialist](https://www.opentoworkremote.com/apply/561104) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  JobRack | [Marknology - eCommerce Operations Assistant](https://www.opentoworkremote.com/apply/556754) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Long Term Care Ombudsman | [CCTV Specialist/ Operator](https://www.opentoworkremote.com/apply/561114) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Intetics | [Back-end Engineer](https://www.opentoworkremote.com/apply/556764) | Remote, Poland | :spiral_calendar: ️2024-01-09 |
-|  :office:  Facet | [Senior Product Manager](https://www.opentoworkremote.com/apply/561124) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Intellectsoft | [.Net Middle developer](https://www.opentoworkremote.com/apply/556774) | Remote, Ukraine | :spiral_calendar: ️2024-01-09 |
-|  :office:  Nexleaf Analytics | [Head of Product](https://www.opentoworkremote.com/apply/561134) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Transifex | [Backend Software Engineer (Remote, Full-time)](https://www.opentoworkremote.com/apply/556784) | Remote, Greece | :spiral_calendar: ️2024-01-09 |
-|  :office:  Sigma Defense [SOLUTE] | [Cloud Architect SME](https://www.opentoworkremote.com/apply/561144) | Remote, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  WhoCanFixMyCar | [Finance Assistant](https://www.opentoworkremote.com/apply/556794) | Remote, United Kingdom | :spiral_calendar: ️2024-01-09 |
-|  :office:  amazee.io | [Sales Representative - Americas](https://www.opentoworkremote.com/apply/556544) | Americas Only | :spiral_calendar: ️2024-01-09 |
-|  :office:  EdgeTier | [Senior Python Backend Integrations Developer](https://www.opentoworkremote.com/apply/557824) | Spain | :spiral_calendar: ️2024-01-09 |
-|  :office:  Zscaler | [Sr Software Engineer ( Python, Automation, Networking)](https://www.opentoworkremote.com/apply/557314) | India | :spiral_calendar: ️2024-01-09 |
-|  :office:  Masabi Jobs | [Business Development Director](https://www.opentoworkremote.com/apply/557834) | Spain | :spiral_calendar: ️2024-01-09 |
-|  :office:  Retool | [Digital Marketing Manager](https://www.opentoworkremote.com/apply/557324) | Canada | :spiral_calendar: ️2024-01-09 |
-|  :office:  Ophelia | [Part Time Psych NP Telehealth Clinician](https://www.opentoworkremote.com/apply/558094) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  UTTR | [Senior Designer](https://www.opentoworkremote.com/apply/558864) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  San Jose State University | [Assistant Professor of Industrial Design](https://www.opentoworkremote.com/apply/562194) | San Jose, CA | :spiral_calendar: ️2024-01-09 |
-|  :office:  Fundrise | [Manager, Tax Compliance](https://www.opentoworkremote.com/apply/557844) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Sysdig | [Director Technical Program Management](https://www.opentoworkremote.com/apply/557334) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Newsela | [Community Manager](https://www.opentoworkremote.com/apply/558104) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Wealthsimple | [Senior Manager, Product Specialist](https://www.opentoworkremote.com/apply/557854) | Canada | :spiral_calendar: ️2024-01-09 |
-|  :office:  Scorpion | [Director of Product-Led Growth](https://www.opentoworkremote.com/apply/557344) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Pachama | [Staff Software Engineer, Applied Machine Learning](https://www.opentoworkremote.com/apply/558114) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Expressable | [Speech-Language Pathologist (WFH/Remote)-Texas](https://www.opentoworkremote.com/apply/557864) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Improbable | [Full Stack Senior Software Engineer – Backend Services](https://www.opentoworkremote.com/apply/557354) | Poland | :spiral_calendar: ️2024-01-09 |
-|  :office:  Hallow | [Copywriter - LCM Manager (LATAM–Contract, 3 Month Initial Term)](https://www.opentoworkremote.com/apply/558124) | Mexico | :spiral_calendar: ️2024-01-09 |
-|  :office:  Modern Health | [Vice President of Product Marketing](https://www.opentoworkremote.com/apply/557874) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Veritone | [Full Stack Developer](https://www.opentoworkremote.com/apply/561714) | Israel | :spiral_calendar: ️2024-01-09 |
-|  :office:  Safe | [Customer Success Operations Program Manager](https://www.opentoworkremote.com/apply/557364) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Zeller | [Account Executive (SMB)](https://www.opentoworkremote.com/apply/558134) | Australia | :spiral_calendar: ️2024-01-09 |
-|  :office:  Exotrail | [Software Product Designer](https://www.opentoworkremote.com/apply/557114) | Toulouse, France | :spiral_calendar: ️2024-01-09 |
-|  :office:  Super.com | [Technical Product Manager](https://www.opentoworkremote.com/apply/557884) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Dataiku | [Director of Product Management - Data Science](https://www.opentoworkremote.com/apply/561724) | France | :spiral_calendar: ️2024-01-09 |
-|  :office:  Forbes Advisor | [Digital PR Manager](https://www.opentoworkremote.com/apply/566844) | UK | :spiral_calendar: ️2024-01-09 |
-|  :office:  Doctolib | [Product Designer (x/f/m)](https://www.opentoworkremote.com/apply/557374) | France | :spiral_calendar: ️2024-01-09 |
-|  :office:  MetaLab | [Design Lead](https://www.opentoworkremote.com/apply/558144) | Canada | :spiral_calendar: ️2024-01-09 |
-|  :office:  The Aerospace Corporation | [Administrative  Specialist II](https://www.opentoworkremote.com/apply/557124) | El Segundo, CA, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Muck Rack | [Senior Software Engineer, Full-Stack](https://www.opentoworkremote.com/apply/557894) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  VERISIGN | [Information Security Governance, Risk and Compliance Engineer](https://www.opentoworkremote.com/apply/561734) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Mambu | [Marketing Manager](https://www.opentoworkremote.com/apply/566854) | Romania | :spiral_calendar: ️2024-01-09 |
-|  :office:  Vero | [Implementation Specialist](https://www.opentoworkremote.com/apply/557384) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Transfr | [Account Executive, K-12](https://www.opentoworkremote.com/apply/558154) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Mojob | [Senior Full Stack Developer (Vue 3, Django)](https://www.opentoworkremote.com/apply/558924) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Maxar | [ACS Staff Engineer](https://www.opentoworkremote.com/apply/557134) | Palo Alto, CA, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Upwork | [Sr. Product Designer](https://www.opentoworkremote.com/apply/568654) | USA | :spiral_calendar: ️2024-01-09 |
-|  :office:  Canva | [Freelance Illustrator - Japan](https://www.opentoworkremote.com/apply/557904) | Japan | :spiral_calendar: ️2024-01-09 |
-|  :office:  Intercom | [Senior Salesforce Administrator (CPQ)](https://www.opentoworkremote.com/apply/561744) | Ireland | :spiral_calendar: ️2024-01-09 |
-|  :office:  Augury | [Account Executive - Middle Market](https://www.opentoworkremote.com/apply/566864) | USA | :spiral_calendar: ️2024-01-09 |
-|  :office:  Kivaorg | [Executive Assistant](https://www.opentoworkremote.com/apply/557394) | Canada | :spiral_calendar: ️2024-01-09 |
-|  :office:  Flock Safety | [Global Compliance Manager](https://www.opentoworkremote.com/apply/558164) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Plann | [Senior Frontend Developer](https://www.opentoworkremote.com/apply/558934) | Sydney NSW, Australia | :spiral_calendar: ️2024-01-09 |
-|  :office:  The Aerospace Corporation | [RF Systems Engineer](https://www.opentoworkremote.com/apply/557144) | Chantilly, VA, United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Xplor | [Outside Sales Account Executive, Direct Sales Electronic Payments, Northeast](https://www.opentoworkremote.com/apply/557914) | Switzerland | :spiral_calendar: ️2024-01-09 |
-|  :office:  Trendyol | [Technical Business Analyst (Infra.)](https://www.opentoworkremote.com/apply/561754) | Turkey | :spiral_calendar: ️2024-01-09 |
-|  :office:  Feathr | [Product Support Representative](https://www.opentoworkremote.com/apply/566874) | USA | :spiral_calendar: ️2024-01-09 |
-|  :office:  SpiderOak | [Software Engineer](https://www.opentoworkremote.com/apply/557404) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Hallow | [Graphic Designer (LATAM--Contract, 3 Month Initial Term)](https://www.opentoworkremote.com/apply/558174) | Mexico | :spiral_calendar: ️2024-01-09 |
-|  :office:  DISCO | [Head of Marketing (Music industry)](https://www.opentoworkremote.com/apply/557924) | Australia | :spiral_calendar: ️2024-01-09 |
-|  :office:  Fi | [Senior Mobile Software Engineer - Android](https://www.opentoworkremote.com/apply/561764) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Beacon Hill | [Marketing Coordinator](https://www.opentoworkremote.com/apply/566884) | USA | :spiral_calendar: ️2024-01-09 |
-|  :office:  CommerceHub | [Account Executive](https://www.opentoworkremote.com/apply/558184) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Telespazio | [Telespazio - Field Management Service](https://www.opentoworkremote.com/apply/557164) | Roma | :spiral_calendar: ️2024-01-09 |
-|  :office:  Spruce | [Senior Designer](https://www.opentoworkremote.com/apply/557934) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Loupe Art | [Senior Tech Lead](https://www.opentoworkremote.com/apply/560494) | USA Only | :spiral_calendar: ️2024-01-09 |
-|  :office:  Cartodb | [Customer Success Engineer - Spain](https://www.opentoworkremote.com/apply/561774) | Spain | :spiral_calendar: ️2024-01-09 |
-|  :office:  Hutch | [Art Director](https://www.opentoworkremote.com/apply/566894) | UK | :spiral_calendar: ️2024-01-09 |
-|  :office:  Arcadia | [Sales Director - Payer Market](https://www.opentoworkremote.com/apply/558194) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  CoinDesk | [Event Programming Lead, Gaming & Immersive Worlds @ Consensus Festival (Contract](https://www.opentoworkremote.com/apply/562034) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Token Metrics | [Crypto Full Stack Developer (Buenos Aires - Remote)](https://www.opentoworkremote.com/apply/557174) | Argentina | :spiral_calendar: ️2024-01-09 |
-|  :office:  Dovetail | [Lead Product Designer](https://www.opentoworkremote.com/apply/562294) | Sydney, Australia | :spiral_calendar: ️2024-01-09 |
-|  :office:  Super.com | [Intermediate Software Engineer](https://www.opentoworkremote.com/apply/557944) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Love in Focus Studio | [Booking Coordinator (Remote, Commission Only, 1099)](https://www.opentoworkremote.com/apply/560504) | Americas Only | :spiral_calendar: ️2024-01-09 |
-|  :office:  BillionToOne | [Senior Account Executive, San Bernardino ](https://www.opentoworkremote.com/apply/561784) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Aspire | [Sales Growth Hacker](https://www.opentoworkremote.com/apply/562044) | India | :spiral_calendar: ️2024-01-09 |
-|  :office:  Zscaler | [Principal Field Product Manager](https://www.opentoworkremote.com/apply/557184) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Sandfield | [Lead UX/UI Designer](https://www.opentoworkremote.com/apply/562304) | Auckland, New Zealand | :spiral_calendar: ️2024-01-09 |
-|  :office:  LeadSimple, Inc. | [Senior Product Manager](https://www.opentoworkremote.com/apply/560514) | Latin America Only | :spiral_calendar: ️2024-01-09 |
-|  :office:  Zoox | [Software Engineer, Ride & Fleet Services - Platform](https://www.opentoworkremote.com/apply/561794) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Vortex Industries | [Installation/Service Technician](https://www.opentoworkremote.com/apply/562054) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Prismatic | [Product Marketing Manager](https://www.opentoworkremote.com/apply/557194) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  UTTR | [B2B Senior Art Director](https://www.opentoworkremote.com/apply/562314) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Globant Commerce Studio | [Senior Mobile Developer](https://www.opentoworkremote.com/apply/557964) | Philippines | :spiral_calendar: ️2024-01-09 |
-|  :office:  Opploans | [Credit Reporting Manager](https://www.opentoworkremote.com/apply/561804) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Muck Rack | [Strategic Finance Analyst](https://www.opentoworkremote.com/apply/562064) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Hallow | [HR Generalist](https://www.opentoworkremote.com/apply/557204) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Transfr | [Account Executive, Higher Education](https://www.opentoworkremote.com/apply/557974) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Saviynt | [Senior Data scientist](https://www.opentoworkremote.com/apply/561814) | India | :spiral_calendar: ️2024-01-09 |
-|  :office:  Apollo GraphQL | [Senior Software Engineer, Rust (EST hours)](https://www.opentoworkremote.com/apply/562074) | Canada | :spiral_calendar: ️2024-01-09 |
-|  :office:  Pumpkin | [Sales Enablement](https://www.opentoworkremote.com/apply/557214) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Rocket Money | [Senior Growth Marketing Engineer](https://www.opentoworkremote.com/apply/557984) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Cerebral | [Collaborating Psychiatrist](https://www.opentoworkremote.com/apply/561824) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  FollowUP | [Ingeniero DevOps](https://www.opentoworkremote.com/apply/561314) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Super.com | [Intermediate Full-stack Engineer](https://www.opentoworkremote.com/apply/562084) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Smithmicro | [Marketing - Intern 2024](https://www.opentoworkremote.com/apply/557224) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Segula Technologies | [Chef de Projet Mécanique Véhicule Industriel H/F](https://www.opentoworkremote.com/apply/557994) | France | :spiral_calendar: ️2024-01-09 |
-|  :office:  Oddball | [Java Engineer](https://www.opentoworkremote.com/apply/561834) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Everything Bagel | [Short Form Content Editor](https://www.opentoworkremote.com/apply/561324) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  Kajabi | [Senior Growth Marketing Manager](https://www.opentoworkremote.com/apply/562094) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Expressable | [Speech-Language Pathologist (WFH/Remote)-Florida](https://www.opentoworkremote.com/apply/558004) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Alida | [Solution Engineer](https://www.opentoworkremote.com/apply/561844) | Canada | :spiral_calendar: ️2024-01-09 |
-|  :office:  Rankmi | [Full-Stack PHP](https://www.opentoworkremote.com/apply/561334) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  NewStore | [Senior Sales Engineer (f/m/d)](https://www.opentoworkremote.com/apply/562104) | Germany | :spiral_calendar: ️2024-01-09 |
-|  :office:  SmartAsset | [Account Executive - Remote](https://www.opentoworkremote.com/apply/557244) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Revenue Analytics | [Customer Success Manager, Travel and Hospitality](https://www.opentoworkremote.com/apply/558014) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Fleetio | [Account Executive, Government (Remote)](https://www.opentoworkremote.com/apply/561854) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Ophelia | [Part Time Telehealth MD](https://www.opentoworkremote.com/apply/562114) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Tapcart | [Customer Success Manager - MidMarket](https://www.opentoworkremote.com/apply/557254) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Pure Storage | [Senior Account System Engineer - Germany](https://www.opentoworkremote.com/apply/558024) | Germany | :spiral_calendar: ️2024-01-09 |
-|  :office:  Fanatics | [Systems Support Analyst](https://www.opentoworkremote.com/apply/561864) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Smartest Energy | [Customer Success Executive](https://www.opentoworkremote.com/apply/570314) | UK | :spiral_calendar: ️2024-01-09 |
-|  :office:  Eventbase | [Senior Software Development Engineer in Test (SDET)](https://www.opentoworkremote.com/apply/562124) | Canada | :spiral_calendar: ️2024-01-09 |
-|  :office:  Smithmicro | [Accounting Intern 2024](https://www.opentoworkremote.com/apply/557264) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Udacity | [Session Lead (External Contractor) - iOS Developer Nanodegree (Arabic + English)](https://www.opentoworkremote.com/apply/558034) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-09 |
-|  :office:  OpenSea | [Senior Counsel, Legal](https://www.opentoworkremote.com/apply/561874) | USA | :spiral_calendar: ️2024-01-09 |
-|  :office:  Fundrise | [Senior Manager, Treasury](https://www.opentoworkremote.com/apply/562134) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Tonkean | [Implementation Project Manager](https://www.opentoworkremote.com/apply/557274) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Drift | [Application Security Architect](https://www.opentoworkremote.com/apply/558044) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Identify Security | [Cloud Security – Principal Engineer](https://www.opentoworkremote.com/apply/561884) | Anywhere | :spiral_calendar: ️2024-01-09 |
-|  :office:  CoinDesk | [Senior Product Manager, Crypto Data & API](https://www.opentoworkremote.com/apply/562144) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Shift | [Credit Analyst](https://www.opentoworkremote.com/apply/558054) | Australia | :spiral_calendar: ️2024-01-09 |
-|  :office:  Newsela | [Sales Representative, SMB](https://www.opentoworkremote.com/apply/562154) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Empower | [Assistant Controller](https://www.opentoworkremote.com/apply/557804) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  NZXT | [Financial Analyst](https://www.opentoworkremote.com/apply/557294) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Sprinto | [Content Specialist](https://www.opentoworkremote.com/apply/558064) | India | :spiral_calendar: ️2024-01-09 |
-|  :office:  Hostinger | [Customer Success Specialist - ID Global (Night Shift)](https://www.opentoworkremote.com/apply/562164) | Indonesia | :spiral_calendar: ️2024-01-09 |
-|  :office:  Hugging Face | [International Account Payable Specialist - EMEA Remote](https://www.opentoworkremote.com/apply/557814) | France | :spiral_calendar: ️2024-01-09 |
-|  :office:  Token Metrics | [Crypto Full Stack Developer (Cape Town- Remote)](https://www.opentoworkremote.com/apply/557304) | South Africa | :spiral_calendar: ️2024-01-09 |
-|  :office:  CommerceHub | [Senior Strategic Account Executive](https://www.opentoworkremote.com/apply/558074) | United States | :spiral_calendar: ️2024-01-09 |
-|  :office:  Wrapbook | [Manager of Strategic Unemployment Partnerships](https://www.opentoworkremote.com/apply/562174) | Canada | :spiral_calendar: ️2024-01-09 |
-|  :office:  Quadcode | [IT Compliance specialist](https://www.opentoworkremote.com/apply/559194) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-08 |
-|  :office:  Black & McDonald Limited | [TIMESHEET & LEM ADMINISTRATOR (Site)](https://www.opentoworkremote.com/apply/559204) | Canada | :spiral_calendar: ️2024-01-08 |
-|  :office:  Sapphire Systems | [S/4HANA Cloud Application Consultant – Manufacturing](https://www.opentoworkremote.com/apply/559214) | USA | :spiral_calendar: ️2024-01-08 |
-|  :office:  ImagineX Consulting | [AWS Solutions Architect](https://www.opentoworkremote.com/apply/559224) | USA | :spiral_calendar: ️2024-01-08 |
-|  :office:  Fortanix | [Customer Success Engineer](https://www.opentoworkremote.com/apply/559234) | USA | :spiral_calendar: ️2024-01-08 |
-|  :office:  Constructor | [Backend & API Engineer - Catalog Management](https://www.opentoworkremote.com/apply/559244) | Portugal | :spiral_calendar: ️2024-01-08 |
-|  :office:  Broadcom | [Field Applications Engineer](https://www.opentoworkremote.com/apply/556454) | US | :spiral_calendar: ️2024-01-08 |
-|  :office:  Broadcom | [Staff R&D Engineer Software](https://www.opentoworkremote.com/apply/556464) | Durham, NC | :spiral_calendar: ️2024-01-08 |
-|  :office:  Glassnode | [Senior Data Engineer - Data Platform Team (m/f/d). Remote](https://www.opentoworkremote.com/apply/556474) | Europe | :spiral_calendar: ️2024-01-08 |
-|  :office:  Descartes Labs | [Senior Backend Engineer](https://www.opentoworkremote.com/apply/556484) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-08 |
-|  :office:  Descartes Labs | [Engineering Manager: System Architecture (Government Clearance - Secret required, TS Preferred)](https://www.opentoworkremote.com/apply/556494) | Denver, CO | :spiral_calendar: ️2024-01-08 |
-|  :office:  Webflow | [Senior Manager, Solutions Engineering (East)](https://www.opentoworkremote.com/apply/556504) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-08 |
-|  :office:  Skydio | [Associate Solutions Engineer - Commercial (Remote: East Coast)](https://www.opentoworkremote.com/apply/556514) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-08 |
-|  :office:  Jooble | [Senior SEO Specialist (Startup)](https://www.opentoworkremote.com/apply/559254) | Ukraine | :spiral_calendar: ️2024-01-08 |
-|  :office:  Tidepool | [Customer Support and Clinic Success Lead](https://www.opentoworkremote.com/apply/559264) | USA | :spiral_calendar: ️2024-01-08 |
-|  :office:  borderless | [Jr. Software Engineer](https://www.opentoworkremote.com/apply/559274) | USA | :spiral_calendar: ️2024-01-08 |
-|  :office:  Alpine Home Air | [Python Developer](https://www.opentoworkremote.com/apply/559284) | USA | :spiral_calendar: ️2024-01-08 |
-|  :office:  Harvest | [Senior Software Engineer](https://www.opentoworkremote.com/apply/559294) | USA | :spiral_calendar: ️2024-01-08 |
-|  :office:  Palmetto Clean Technology | [Senior Data Engineer](https://www.opentoworkremote.com/apply/556524) | US | :spiral_calendar: ️2024-01-08 |
 
 ## Star History
 
