@@ -415,8 +415,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Pixxel | [Quality Assurance Engineer - Electrical](https://www.opentoworkremote.com/apply/594684) | Bangalore, India | :spiral_calendar: ️2024-01-20 |
 |  :office:  Renaissance | [Customer Success Manager](https://www.opentoworkremote.com/apply/595964) | United States | :spiral_calendar: ️2024-01-20 |
 |  :office:  1Password | [Senior Frontend Developer](https://www.opentoworkremote.com/apply/597774) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-19 |
-|  :office:  TestGorilla | [Senior DevSecOps and IT Manager Engineering 
-    Fully Remote](https://www.opentoworkremote.com/apply/594134) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-19 |
+|  :office:  TestGorilla | [Senior DevSecOps and IT Manager Engineering](https://www.opentoworkremote.com/apply/594134) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-19 |
 |  :office:  TestGorilla | [Senior Frontend Engineer (React/Headless CMS)](https://www.opentoworkremote.com/apply/594124) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-19 |
 |  :office:  ConsenSys | [Senior Software Engineer](https://www.opentoworkremote.com/apply/593804) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-19 |
 |  :office:  SecurityScorecard | [Staff Fullstack Software Engineer](https://www.opentoworkremote.com/apply/593814) | Remote. :earth_americas: | :spiral_calendar: ️2024-01-19 |
