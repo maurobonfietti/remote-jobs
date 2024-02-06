@@ -503,8 +503,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  F5 | [Senior Change Manager, Technology Services – Idea to Cash 2 Locations](https://www.opentoworkremote.com/apply/650934) | Guadalajara, Mexico | :spiral_calendar: ️2024-02-04 |
 |  :office:  mmhmm | [AI Engineer for Sora Union](https://www.opentoworkremote.com/apply/651574) | Remote. :earth_americas: | :spiral_calendar: ️2024-02-04 |
 |  :office:  iTalent Digital | [Senior Swift/Frontend Developer (Financial Applications)](https://www.opentoworkremote.com/apply/651584) | Remote US | :spiral_calendar: ️2024-02-04 |
-|  :office:  Fnality International | [Chief Information Security Officer (CISO) Tech and Ops London 
-    Hybrid Remote](https://www.opentoworkremote.com/apply/651594) | London, UK | :spiral_calendar: ️2024-02-04 |
+|  :office:  Fnality International | [Chief Information Security Officer (CISO)](https://www.opentoworkremote.com/apply/651594) | London, UK | :spiral_calendar: ️2024-02-04 |
 |  :office:  iTalent Digital | [Senior Swift/Backend Developer (Financial Applications)](https://www.opentoworkremote.com/apply/651604) | US | :spiral_calendar: ️2024-02-04 |
 |  :office:  Red Ventures | [Senior Data Science Product Manager, AI Products](https://www.opentoworkremote.com/apply/651614) | New York, NY | :spiral_calendar: ️2024-02-04 |
 |  :office:  10up | [Associate Director of Business Development](https://www.opentoworkremote.com/apply/654504) | Remote - Worldwide | :spiral_calendar: ️2024-02-04 |
