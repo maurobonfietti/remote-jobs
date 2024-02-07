@@ -1128,10 +1128,6 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Experian | [Software Developer (m/w/d)](https://www.opentoworkremote.com/apply/647874) | Remote. :earth_americas: | :spiral_calendar: ️2024-02-03 |
 |  :office:  ICF | [Lead ServiceNow Developer App Engine](https://www.opentoworkremote.com/apply/650254) | USA | :spiral_calendar: ️2024-02-03 |
 |  :office:  ICF | [Senior ServiceNow Architect](https://www.opentoworkremote.com/apply/650264) | USA | :spiral_calendar: ️2024-02-03 |
-|  :office:  ICF | [ServiceNow Developer 
-dash Platform Innovation 
-dash All Levels](https://www.opentoworkremote.com/apply/650274) | USA | :spiral_calendar: ️2024-02-03 |
-|  :office:  ICF | [ServiceNow Architects – Enterprise Service Delivery All Levels](https://www.opentoworkremote.com/apply/650284) | USA | :spiral_calendar: ️2024-02-03 |
 |  :office:  ICF | [Senior App Engine ServiceNow Developer](https://www.opentoworkremote.com/apply/650294) | USA | :spiral_calendar: ️2024-02-03 |
 |  :office:  ICF | [ServiceNow Architects – Platform Innovation All Levels](https://www.opentoworkremote.com/apply/650304) | USA | :spiral_calendar: ️2024-02-03 |
 |  :office:  Fora Financial LLC | [Senior Software Engineer](https://www.opentoworkremote.com/apply/654934) | USA | :spiral_calendar: ️2024-02-03 |
