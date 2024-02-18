@@ -771,8 +771,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Spot AI | [Senior Software Engineer, AI Infrastructure](https://www.opentoworkremote.com/apply/698734) | Remote, United States | :spiral_calendar: ️2024-02-15 |
 |  :office:  Sporty Group | [Weekend Site Reliability Engineer](https://www.opentoworkremote.com/apply/698744) | Remote. :earth_americas: | :spiral_calendar: ️2024-02-15 |
 |  :office:  LeafLink | [Staff Engineer, Commerce Solutions](https://www.opentoworkremote.com/apply/699864) | Remote. :earth_americas: | :spiral_calendar: ️2024-02-15 |
-|  :office:  Deepki | [Advanced Product Designer - Paris Software Engineering Paris Office (11ème) 
-    Hybrid Remote](https://www.opentoworkremote.com/apply/698754) | Paris, France | :spiral_calendar: ️2024-02-15 |
+|  :office:  Deepki | [Advanced Product Designer](https://www.opentoworkremote.com/apply/698754) | Paris, France | :spiral_calendar: ️2024-02-15 |
 |  :office:  Jabil | [Test Engineer Sr](https://www.opentoworkremote.com/apply/698004) | Mexico | :spiral_calendar: ️2024-02-15 |
 |  :office:  Splice | [Senior Data Scientist - Product Analytics](https://www.opentoworkremote.com/apply/698764) | Remote, United States | :spiral_calendar: ️2024-02-15 |
 |  :office:  AccorCorpo | [Business Data Analyst Lead](https://www.opentoworkremote.com/apply/700584) | France | :spiral_calendar: ️2024-02-15 |
