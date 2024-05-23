@@ -1381,7 +1381,6 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Arine | [Junior Project Manager](https://www.opentoworkremote.com/view/949364?ref=github.com&utm_source=github.com) | United States | :spiral_calendar: ️2024-05-16 |
 |  :office:  Halo | [Product Designer](https://www.opentoworkremote.com/view/955254?ref=github.com&utm_source=github.com) | Remote, United States | :spiral_calendar: ️2024-05-16 |
 |  :office:  bulkhead | [Vehicle Handling Designer](https://www.opentoworkremote.com/view/956024?ref=github.com&utm_source=github.com) | UK | :spiral_calendar: ️2024-05-16 |
-|  :office:  PickleBali | [Technical Apparel Designer (CLO3D, Browzwear, Marvelous, etc)](https://www.opentoworkremote.com/view/951164?ref=github.com&utm_source=github.com) | Europe Only | :spiral_calendar: ️2024-05-16 |
 |  :office:  InfluxData | [Senior Software Engineer, Query](https://www.opentoworkremote.com/view/949374?ref=github.com&utm_source=github.com) | Canada | :spiral_calendar: ️2024-05-16 |
 |  :office:  Glorious | [UX Designer](https://www.opentoworkremote.com/view/955264?ref=github.com&utm_source=github.com) | Remote, United States | :spiral_calendar: ️2024-05-16 |
 |  :office:  matchpoint solutions | [Senior IAM Engineer - 6 + months CTH - Remote](https://www.opentoworkremote.com/view/949634?ref=github.com&utm_source=github.com) | United States | :spiral_calendar: ️2024-05-16 |
@@ -1424,7 +1423,6 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Bobtail | [Portfolio Risk Manager](https://www.opentoworkremote.com/view/949464?ref=github.com&utm_source=github.com) | Remote. :earth_americas: | :spiral_calendar: ️2024-05-16 |
 |  :office:  Hubstaff | [Product Designer](https://www.opentoworkremote.com/view/955354?ref=github.com&utm_source=github.com) | Remote, Canada | :spiral_calendar: ️2024-05-16 |
 |  :office:  G2i Inc. | [Software Engineer for AI Training Data (Tier 2)](https://www.opentoworkremote.com/view/948444?ref=github.com&utm_source=github.com) | Remote. :earth_americas: | :spiral_calendar: ️2024-05-16 |
-|  :office:  PickleBali | [Technical Apparel Designer - Help Design Unique Sports Apparel using CLO3D, Browzwear, Marvelous](https://www.opentoworkremote.com/view/953824?ref=github.com&utm_source=github.com) | Europe Only | :spiral_calendar: ️2024-05-16 |
 |  :office:  Hexagon US Federal | [Geospatial Analyst I](https://www.opentoworkremote.com/view/949474?ref=github.com&utm_source=github.com) | United States | :spiral_calendar: ️2024-05-16 |
 |  :office:  Proof | [Senior Technical Accountant](https://www.opentoworkremote.com/view/948714?ref=github.com&utm_source=github.com) | United States | :spiral_calendar: ️2024-05-16 |
 |  :office:  Studyportals | [Associate Director Partnerships, APAC](https://www.opentoworkremote.com/view/949484?ref=github.com&utm_source=github.com) | Australia | :spiral_calendar: ️2024-05-16 |
