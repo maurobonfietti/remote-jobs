@@ -220,7 +220,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  WalkMe | [Brand Experience Manager](https://www.opentoworkremote.com/view/1316825?ref=github.com&utm_source=github.com) | Raleigh | :spiral_calendar: ️2025-01-08 |
 |  :office:  WalkMe | [Customer Success Manager](https://www.opentoworkremote.com/view/1316488?ref=github.com&utm_source=github.com) | Berlin | :spiral_calendar: ️2025-01-08 |
 |  :office:  Viseven | [Finance Manager](https://www.opentoworkremote.com/view/1316838?ref=github.com&utm_source=github.com) | Remote, Ukraine | :spiral_calendar: ️2025-01-08 |
-|  :office:  StoneridgeSoftware | [Dynamics 365 Business Central Senior Consultant](https://www.opentoworkremote.com/view/1316836?ref=github.com&utm_source=github.com) | Minneapolis, MN | :spiral_calendar: ️2025-01-08 |
+|  :office:   | [Dynamics 365 Business Central Senior Consultant](https://www.opentoworkremote.com/view/1316836?ref=github.com&utm_source=github.com) | Minneapolis, MN | :spiral_calendar: ️2025-01-08 |
 |  :office:  SiteGround | [PHP Back-End Developer](https://www.opentoworkremote.com/view/1316504?ref=github.com&utm_source=github.com) | Bulgaria | :spiral_calendar: ️2025-01-08 |
 |  :office:  Respondent | [Product Support Specialist](https://www.opentoworkremote.com/view/1316501?ref=github.com&utm_source=github.com) | Manila | :spiral_calendar: ️2025-01-08 |
 |  :office:  Respondent | [Research Project Support Specialist](https://www.opentoworkremote.com/view/1316502?ref=github.com&utm_source=github.com) | Manila | :spiral_calendar: ️2025-01-08 |
@@ -457,7 +457,6 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  WatchGuard | [Security Renewals Representative](https://www.opentoworkremote.com/view/1316489?ref=github.com&utm_source=github.com) | Madrid, Spain | :spiral_calendar: ️2025-01-07 |
 |  :office:  WalkMe | [Devops Engineer](https://www.opentoworkremote.com/view/1316225?ref=github.com&utm_source=github.com) | Tel Aviv | :spiral_calendar: ️2025-01-07 |
 |  :office:  Ushur | [Industry Director, Insurance and Financial Services](https://www.opentoworkremote.com/view/1316487?ref=github.com&utm_source=github.com) | Remote. :earth_americas: | :spiral_calendar: ️2025-01-07 |
-|  :office:  StoneridgeSoftware | [Microsoft Data Solution Architect](https://www.opentoworkremote.com/view/1316505?ref=github.com&utm_source=github.com) | Minneapolis, MN | :spiral_calendar: ️2025-01-07 |
 |  :office:  SiteGround | [Front-End Developer](https://www.opentoworkremote.com/view/1316503?ref=github.com&utm_source=github.com) | Bulgaria | :spiral_calendar: ️2025-01-07 |
 |  :office:  Serotonin | [Emerging Companies and Venture Capital Associate](https://www.opentoworkremote.com/view/1316485?ref=github.com&utm_source=github.com) | New York | :spiral_calendar: ️2025-01-07 |
 |  :office:  Revinate | [Enterprise Sales Consultant - Spain](https://www.opentoworkremote.com/view/1316484?ref=github.com&utm_source=github.com) | Spain | :spiral_calendar: ️2025-01-07 |
