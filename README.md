@@ -1168,7 +1168,6 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  MailerLite | [Senior Product Designer](https://www.opentoworkremote.com/view/1314840?ref=github.com&utm_source=github.com) | EMEA Only | :spiral_calendar: ️2025-01-03 |
 |  :office:  Aledade | [Contracts Operations Administrator, Remote](https://www.opentoworkremote.com/view/1316785?ref=github.com&utm_source=github.com) | Bethesda, MD | :spiral_calendar: ️2025-01-03 |
 |  :office:  Artera | [Medical Director](https://www.opentoworkremote.com/view/1315073?ref=github.com&utm_source=github.com) | Remote-US | :spiral_calendar: ️2025-01-03 |
-|  :office:  Clari | [Finance Manager, Customer Solutions  - Remote](https://www.opentoworkremote.com/view/1315416?ref=github.com&utm_source=github.com) | Remote, San Francisco Bay Area | :spiral_calendar: ️2025-01-03 |
 |  :office:  Spotify | [Client Partner, Emerging & Scaled](https://www.opentoworkremote.com/view/1315092?ref=github.com&utm_source=github.com) | New York, NY | :spiral_calendar: ️2025-01-03 |
 |  :office:  Phoenix Group | [Regulatory Reporting Specialist](https://www.opentoworkremote.com/view/1315803?ref=github.com&utm_source=github.com) | UK | :spiral_calendar: ️2025-01-03 |
 |  :office:  Intesa Sanpaolo | [Risk Management Analyst](https://www.opentoworkremote.com/view/1315810?ref=github.com&utm_source=github.com) | Milano, IT | :spiral_calendar: ️2025-01-03 |
