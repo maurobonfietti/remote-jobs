@@ -12,7 +12,6 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :medal_sports:  Belo | [Senior Product Manager](https://www.opentoworkremote.com/view/1310524?ref=github.com&utm_source=github.com) | Remote, Argentina | :spiral_calendar: ️2024-12-18 |
 |  :medal_sports:  Loop | [Senior Software Engineer (Laravel/PHP)](https://www.opentoworkremote.com/view/1308381?ref=github.com&utm_source=github.com) | Remote. :earth_americas: | :spiral_calendar: ️2024-12-11 |
 |  :office:  Altera | [Sr Solutions Architect - Remote](https://www.opentoworkremote.com/view/1316752?ref=github.com&utm_source=github.com) | Remote - CA | :spiral_calendar: ️2025-01-09 |
-|  :office:  Verisign | [Senior Identity and Access Management (IAM) Engineer](https://www.opentoworkremote.com/view/1316721?ref=github.com&utm_source=github.com) | Reston,Virginia,United States | :spiral_calendar: ️2025-01-09 |
 |  :office:  Parity | [DevOps/SRE Manager - Full-time](https://www.opentoworkremote.com/view/1316725?ref=github.com&utm_source=github.com) | Remote. :earth_americas: | :spiral_calendar: ️2025-01-09 |
 |  :office:  Parity | [Engineering Manager](https://www.opentoworkremote.com/view/1316726?ref=github.com&utm_source=github.com) | Remote. :earth_americas: | :spiral_calendar: ️2025-01-09 |
 |  :office:  Parity | [Engineering Product Lead](https://www.opentoworkremote.com/view/1316727?ref=github.com&utm_source=github.com) | Remote. :earth_americas: | :spiral_calendar: ️2025-01-09 |
