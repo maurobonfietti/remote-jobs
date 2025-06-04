@@ -2,7 +2,7 @@
 
 ## Total: 1567 jobs found.
 
-### Last updated: June 03, 2025.
+### Last updated: June 04, 2025.
 
 I would love to maintain this list up-to-date. Keep me motivated :star_struck: by supporting the project with a star :star:.
 
@@ -625,8 +625,8 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Bigtincan | [Payroll Specialist - REMOTE - Part Time - 2 days per week](https://www.opentoworkremote.com/view/1363580?ref=github.com&utm_source=github.com) | Remote, United States | :spiral_calendar: ️2025-05-30 |
 |  :office:  Colony Networks | [Jr. DevOps Engineer w/ Support Responsibilities (Canada Only,Hybrid or Remote)](https://www.opentoworkremote.com/view/1363838?ref=github.com&utm_source=github.com) | Remote, Canada | :spiral_calendar: ️2025-05-30 |
 |  :office:  EVOTEK, Inc. | [DevOps Engineer (AWS) - Remote](https://www.opentoworkremote.com/view/1364697?ref=github.com&utm_source=github.com) | Remote, United States | :spiral_calendar: ️2025-05-30 |
-|  :office:  Zego | [Actuarial Analyst, Pricing - Gibraltar](https://www.opentoworkremote.com/view/1363584?ref=github.com&utm_source=github.com) | Remote, Gibraltar | :spiral_calendar: ️2025-05-30 |
 |  :office:  Zego | [Actuarial Analyst, Reserving and Capital - Gibraltar](https://www.opentoworkremote.com/view/1363576?ref=github.com&utm_source=github.com) | Remote, Gibraltar | :spiral_calendar: ️2025-05-30 |
+|  :office:  Zego | [Actuarial Analyst, Pricing - Gibraltar](https://www.opentoworkremote.com/view/1363584?ref=github.com&utm_source=github.com) | Remote, Gibraltar | :spiral_calendar: ️2025-05-30 |
 |  :office:  Oura | [Senior Business Planning Manager, Member Experience](https://www.opentoworkremote.com/view/1363839?ref=github.com&utm_source=github.com) | Remote, United States | :spiral_calendar: ️2025-05-30 |
 |  :office:  Moodle | [QA Engineer](https://www.opentoworkremote.com/view/1363844?ref=github.com&utm_source=github.com) | Remote, Spain | :spiral_calendar: ️2025-05-30 |
 |  :office:  SupportYourApp | [Lead Generation Specialist](https://www.opentoworkremote.com/view/1363581?ref=github.com&utm_source=github.com) | Remote, Ukraine | :spiral_calendar: ️2025-05-30 |
@@ -867,12 +867,12 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 |  :office:  Panoptyc | [Cloud Systems Specialist](https://www.opentoworkremote.com/view/1363508?ref=github.com&utm_source=github.com) | Remote, United States | :spiral_calendar: ️2025-05-29 |
 |  :office:  Particle Health | [Senior Account Executive](https://www.opentoworkremote.com/view/1363509?ref=github.com&utm_source=github.com) | Remote, United States | :spiral_calendar: ️2025-05-29 |
 |  :office:  Turnitin, LLC | [Manager, UX Design (USA Remote)](https://www.opentoworkremote.com/view/1363477?ref=github.com&utm_source=github.com) | Dallas, TX | :spiral_calendar: ️2025-05-29 |
-|  :office:  CitizenShipper | [Senior Software Engineer](https://www.opentoworkremote.com/view/1364818?ref=github.com&utm_source=github.com) | Remote, United States | :spiral_calendar: ️2025-05-29 |
-|  :office:  CitizenShipper | [SEO Specialist](https://www.opentoworkremote.com/view/1364819?ref=github.com&utm_source=github.com) | Remote, United States | :spiral_calendar: ️2025-05-29 |
 |  :office:  CitizenShipper | [AI/ML Engineer](https://www.opentoworkremote.com/view/1364814?ref=github.com&utm_source=github.com) | Remote, United States | :spiral_calendar: ️2025-05-29 |
 |  :office:  CitizenShipper | [Growth Marketer](https://www.opentoworkremote.com/view/1364815?ref=github.com&utm_source=github.com) | Remote, United States | :spiral_calendar: ️2025-05-29 |
 |  :office:  CitizenShipper | [Partnership Marketer](https://www.opentoworkremote.com/view/1364816?ref=github.com&utm_source=github.com) | Remote, United States | :spiral_calendar: ️2025-05-29 |
 |  :office:  CitizenShipper | [Product Designer](https://www.opentoworkremote.com/view/1364817?ref=github.com&utm_source=github.com) | Remote, United States | :spiral_calendar: ️2025-05-29 |
+|  :office:  CitizenShipper | [Senior Software Engineer](https://www.opentoworkremote.com/view/1364818?ref=github.com&utm_source=github.com) | Remote, United States | :spiral_calendar: ️2025-05-29 |
+|  :office:  CitizenShipper | [SEO Specialist](https://www.opentoworkremote.com/view/1364819?ref=github.com&utm_source=github.com) | Remote, United States | :spiral_calendar: ️2025-05-29 |
 |  :office:  Recover Medical Group | [Medical Doctor (MD) - Substance Use Disorder & Primary Care](https://www.opentoworkremote.com/view/1363583?ref=github.com&utm_source=github.com) | Remote, United States | :spiral_calendar: ️2025-05-29 |
 |  :office:  Aerones | [Business Development Manager](https://www.opentoworkremote.com/view/1363349?ref=github.com&utm_source=github.com) | Remote, Latvia | :spiral_calendar: ️2025-05-29 |
 |  :office:  BlackStone eIT | [Outsystems Lead](https://www.opentoworkremote.com/view/1363342?ref=github.com&utm_source=github.com) | Remote, India | :spiral_calendar: ️2025-05-29 |
