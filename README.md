@@ -1519,7 +1519,7 @@ I would love to maintain this list up-to-date. Keep me motivated :star_struck: b
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=maurobonfietti/remote-jobs&type=Date)](https://star-history.com/#maurobonfietti/remote-jobs&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=maurobonfietti/remote-jobs&type=Date)](https://star-history.dera.page/#maurobonfietti/remote-jobs&Date)
 
 ## 🤩 Thank you all of you for your support!
 
